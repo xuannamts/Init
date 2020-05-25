@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FindRoom</string>
+
+    <!-- Common -->
+    <string name="home">Home</string>
+    <string name="around">Around</string>
+    <string name="exchange">Exchange</string>
+    <string name="account">Account</string>
+    <string name="post">Post</string>
+    <string name="search">Search</string>
+    <string name="below">Below</string>
+    <string name="above">Above</string>
+
+    <!-- Notice -->
+    <string name="please_wait">Please wait…</string>
+
+    <!-- Home -->
+    <string name="find_trending">Find trending</string>
+    <string name="list_of_rooms">List of rooms</string>
+    <string name="choose_your_perfect_room">Choose your perfect room…</string>
+
+    <!-- Popup Search -->
+    <string name="district">District</string>
+    <string name="ward">Ward</string>
+    <string name="area">Area</string>
+    <string name="price">Price</string>
+
+    <!-- Setting -->
+    <string name="language">Language</string>
+    <string name="term_and_services">Term and services</string>
+    <string name="logout">Logout</string>
+
+    <string name="room_for_rent">Room for rent</string>
+    <string name="apartment">Apartment</string>
+    <string name="mini_apartment">Mini apartment</string>
+    <string name="convenient">Convenient</string>
+    <string name="image">Image</string>
+</resources>

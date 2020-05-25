@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/navigation_around"
+        android:icon="@drawable/ic_my_location"
+        android:title="@string/around" />
+
+    <item
+        android:title=""
+        android:enabled="false" >
+    </item>
+
+    <item
+        android:id="@+id/navigation_exchange"
+        android:icon="@drawable/ic_message"
+        android:title="@string/exchange" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_account_circle"
+        android:title="@string/account" />
+
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextWithIcon" >
+        <attr name="twi_text" format="string" />
+        <attr name="twi_icon" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="LoadingButton" >
+        <attr name="lb_cornerRadius" format="dimension" />
+        <attr name="lb_text" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="MultiOptionsView" >
+        <attr name="mov_menu" format="reference"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="SelectableIcon" >
+        <attr name="si_icon" format="reference"></attr>
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,6736 @@
+[
+  {
+    "id": 1,
+    "name": "Phường Phúc Xá",
+    "location": "21.0467979-105.8481116",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 4,
+    "name": "Phường Trúc Bạch",
+    "location": "21.0452531-105.8415062",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 6,
+    "name": "Phường Vĩnh Phúc",
+    "location": "21.0417308-105.8099499",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 7,
+    "name": "Phường Cống Vị",
+    "location": "21.0352802-105.8092161",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 8,
+    "name": "Phường Liễu Giai",
+    "location": "21.0379972-105.8187558",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 10,
+    "name": "Phường Nguyễn Trung Trực",
+    "location": "21.0417971-105.8473777",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 13,
+    "name": "Phường Quán Thánh",
+    "location": "21.0389429-105.8393044",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 16,
+    "name": "Phường Ngọc Hà",
+    "location": "21.0378157-105.8282959",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 19,
+    "name": "Phường Điện Biên",
+    "location": "21.0331477-105.8393044",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 22,
+    "name": "Phường Đội Cấn",
+    "location": "21.0353362-105.8238927",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 25,
+    "name": "Phường Ngọc Khánh",
+    "location": "21.0301393-105.8099499",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 28,
+    "name": "Phường Kim Mã",
+    "location": "21.0316443-105.8246266",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 31,
+    "name": "Phường Giảng Võ",
+    "location": "21.0270609-105.8194896",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 34,
+    "name": "Phường Thành Công",
+    "location": "21.020889-105.8158204",
+    "type": "Phường",
+    "districtId": 1
+  },
+  {
+    "id": 37,
+    "name": "Phường Phúc Tân",
+    "location": "21.0372674-105.8569193",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 40,
+    "name": "Phường Đồng Xuân",
+    "location": "21.0392122-105.8498353",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 43,
+    "name": "Phường Hàng Mã",
+    "location": "21.0375904-105.8459098",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 46,
+    "name": "Phường Hàng Buồm",
+    "location": "21.0355832-105.8517814",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 49,
+    "name": "Phường Hàng Đào",
+    "location": "21.0346712-105.8499465",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 52,
+    "name": "Phường Hàng Bồ",
+    "location": "21.0348806-105.8477447",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 55,
+    "name": "Phường Cửa Đông",
+    "location": "21.0329168-105.8455428",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 58,
+    "name": "Phường Lý Thái Tổ",
+    "location": "21.0309577-105.8547173",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 61,
+    "name": "Phường Hàng Bạc",
+    "location": "21.0329432-105.8528824",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 64,
+    "name": "Phường Hàng Gai",
+    "location": "21.032965-105.8488456",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 67,
+    "name": "Phường Chương Dương Độ",
+    "location": "21.0265395-105.8621601",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 70,
+    "name": "Phường Hàng Trống",
+    "location": "21.0284792-105.8503135",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 73,
+    "name": "Phường Cửa Nam",
+    "location": "21.0252277-105.8426071",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 76,
+    "name": "Phường Hàng Bông",
+    "location": "21.0288979-105.8459098",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 79,
+    "name": "Phường Tràng Tiền",
+    "location": "21.0251629-105.8547173",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 82,
+    "name": "Phường Trần Hưng Đạo",
+    "location": "21.0229634-105.8473777",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 85,
+    "name": "Phường Phan Chu Trinh",
+    "location": "21.0205376-105.8576533",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 88,
+    "name": "Phường Hàng Bài",
+    "location": "21.021096-105.8517814",
+    "type": "Phường",
+    "districtId": 2
+  },
+  {
+    "id": 91,
+    "name": "Phường Phú Thượng",
+    "location": "21.0838905-105.8084823",
+    "type": "Phường",
+    "districtId": 3
+  },
+  {
+    "id": 94,
+    "name": "Phường Nhật Tân",
+    "location": "21.0764202-105.8260943",
+    "type": "Phường",
+    "districtId": 3
+  },
+  {
+    "id": 97,
+    "name": "Phường Tứ Liên",
+    "location": "21.0695076-105.8378366",
+    "type": "Phường",
+    "districtId": 3
+  },
+  {
+    "id": 100,
+    "name": "Phường Quảng An",
+    "location": "21.063591-105.8260436",
+    "type": "Phường",
+    "districtId": 3
+  },
+  {
+    "id": 103,
+    "name": "Phường Xuân La",
+    "location": "21.0596756-105.8040796",
+    "type": "Phường",
+    "districtId": 3
+  },
+  {
+    "id": 106,
+    "name": "Phường Yên Phụ",
+    "location": "21.0534309-105.8393044",
+    "type": "Phường",
+    "districtId": 3
+  },
+  {
+    "id": 109,
+    "name": "Phường Bưởi",
+    "location": "21.0530438-105.8128851",
+    "type": "Phường",
+    "districtId": 3
+  },
+  {
+    "id": 112,
+    "name": "Phường Thụy Khuê",
+    "location": "21.046133-105.8246266",
+    "type": "Phường",
+    "districtId": 3
+  },
+  {
+    "id": 115,
+    "name": "Phường Thượng Thanh",
+    "location": "21.0655013-105.8883137",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 118,
+    "name": "Phường Ngọc Thụy",
+    "location": "21.0588582-105.8583873",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 121,
+    "name": "Phường Giang Biên",
+    "location": "21.0674567-105.9200531",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 124,
+    "name": "Phường Đức Giang",
+    "location": "21.0701691-105.9068373",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 127,
+    "name": "Phường Việt Hưng",
+    "location": "21.0575538-105.9024322",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 130,
+    "name": "Phường Gia Thụy",
+    "location": "21.048956-105.8862812",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 133,
+    "name": "Phường Ngọc Lâm",
+    "location": "21.0448412-105.8686635",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 136,
+    "name": "Phường Phúc Lợi",
+    "location": "21.0437208-105.9259271",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 139,
+    "name": "Phường Bồ Đề",
+    "location": "21.0371784-105.8730678",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 142,
+    "name": "Phường Sài Đồng",
+    "location": "21.0348453-105.9127108",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 145,
+    "name": "Phường Long Biên",
+    "location": "21.0186765-105.884813",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 148,
+    "name": "Phường Thạch Bàn",
+    "location": "21.0216695-105.9141793",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 151,
+    "name": "Phường Phúc Đồng",
+    "location": "21.0407327-105.896559",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 154,
+    "name": "Phường Cự Khối",
+    "location": "21.0059693-105.896559",
+    "type": "Phường",
+    "districtId": 4
+  },
+  {
+    "id": 157,
+    "name": "Phường Nghĩa Đô",
+    "location": "21.0454641-105.8011445",
+    "type": "Phường",
+    "districtId": 5
+  },
+  {
+    "id": 160,
+    "name": "Phường Nghĩa Tân",
+    "location": "21.0450408-105.7921796",
+    "type": "Phường",
+    "districtId": 5
+  },
+  {
+    "id": 163,
+    "name": "Phường Mai Dịch",
+    "location": "21.0395659-105.7740712",
+    "type": "Phường",
+    "districtId": 5
+  },
+  {
+    "id": 166,
+    "name": "Phường Dịch Vọng",
+    "location": "21.0347067-105.7923394",
+    "type": "Phường",
+    "districtId": 5
+  },
+  {
+    "id": 167,
+    "name": "Phường Dịch Vọng Hậu",
+    "location": "21.0339527-105.7850022",
+    "type": "Phường",
+    "districtId": 5
+  },
+  {
+    "id": 169,
+    "name": "Phường Quan Hoa",
+    "location": "21.0367702-105.8011445",
+    "type": "Phường",
+    "districtId": 5
+  },
+  {
+    "id": 172,
+    "name": "Phường Yên Hoà",
+    "location": "21.0218044-105.790872",
+    "type": "Phường",
+    "districtId": 5
+  },
+  {
+    "id": 175,
+    "name": "Phường Trung Hoà",
+    "location": "21.0101531-105.7988345",
+    "type": "Phường",
+    "districtId": 5
+  },
+  {
+    "id": 178,
+    "name": "Phường Cát Linh",
+    "location": "21.0289833-105.8297637",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 181,
+    "name": "Phường Văn Miếu",
+    "location": "21.0265584-105.8400383",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 184,
+    "name": "Phường Quốc Tử Giám",
+    "location": "21.0272556-105.8326992",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 187,
+    "name": "Phường Láng Thượng",
+    "location": "21.0220022-105.8040796",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 190,
+    "name": "Phường Ô Chợ Dừa",
+    "location": "21.0200535-105.8246266",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 193,
+    "name": "Phường Văn Chương",
+    "location": "21.022491-105.8371026",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 196,
+    "name": "Phường Hàng Bột",
+    "location": "21.0217391-105.8297637",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 199,
+    "name": "Phường Láng Hạ",
+    "location": "21.0153717-105.8128851",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 202,
+    "name": "Phường Khâm Thiên",
+    "location": "21.019454-105.8385705",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 205,
+    "name": "Phường Thổ Quan",
+    "location": "21.0169746-105.834167",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 208,
+    "name": "Phường Nam Đồng",
+    "location": "21.0143557-105.8312314",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 211,
+    "name": "Phường Trung Phụng",
+    "location": "21.0151077-105.8385705",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 214,
+    "name": "Phường Quang Trung",
+    "location": "21.0120152-105.8253604",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 217,
+    "name": "Phường Trung Liệt",
+    "location": "21.0108448-105.822425",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 220,
+    "name": "Phường Phương Liên",
+    "location": "21.0123495-105.8371026",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 223,
+    "name": "Phường Thịnh Quang",
+    "location": "21.0083647-105.8180219",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 226,
+    "name": "Phường Trung Tự",
+    "location": "21.0042141-105.8312314",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 229,
+    "name": "Phường Kim Liên",
+    "location": "21.0066938-105.8356348",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 232,
+    "name": "Phường Phương Mai",
+    "location": "21.0012748-105.8393044",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 235,
+    "name": "Phường Ngã Tư Sở",
+    "location": "21.004722-105.8220581",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 238,
+    "name": "Phường Khương Thượng",
+    "location": "21.0030438-105.8282959",
+    "type": "Phường",
+    "districtId": 6
+  },
+  {
+    "id": 241,
+    "name": "Phường Nguyễn Du",
+    "location": "21.0187567-105.8459098",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 244,
+    "name": "Phường Bạch Đằng",
+    "location": "21.0132507-105.8657274",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 247,
+    "name": "Phường Phạm Đình Hổ",
+    "location": "21.0161916-105.8576533",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 250,
+    "name": "Phường Bùi Thị Xuân",
+    "location": "21.014855-105.8504718",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 253,
+    "name": "Phường Ngô Thì Nhậm",
+    "location": "21.0166103-105.8532494",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 256,
+    "name": "Phường Lê Đại Hành",
+    "location": "21.0123071-105.8451758",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 259,
+    "name": "Phường Đồng Nhân",
+    "location": "21.0116144-105.856651",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 262,
+    "name": "Phường Phố Huế",
+    "location": "21.0115168-105.8533481",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 265,
+    "name": "Phường Đống Mác",
+    "location": "21.0112392-105.8602223",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 268,
+    "name": "Phường Thanh Lương",
+    "location": "21.0068975-105.8715997",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 271,
+    "name": "Phường Thanh Nhàn",
+    "location": "21.0053964-105.8569193",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 274,
+    "name": "Phường Cầu Dền",
+    "location": "21.0067485-105.8503135",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 277,
+    "name": "Phường Bách Khoa",
+    "location": "21.0042694-105.8459098",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 280,
+    "name": "Phường Đồng Tâm",
+    "location": "20.9967604-105.8432719",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 283,
+    "name": "Phường Vĩnh Tuy",
+    "location": "20.9984853-105.8686635",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 286,
+    "name": "Phường Bạch Mai",
+    "location": "21.0008143-105.8517814",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 289,
+    "name": "Phường Quỳnh Mai",
+    "location": "20.9999773-105.8605893",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 292,
+    "name": "Phường Quỳnh Lôi",
+    "location": "21.0003958-105.8561853",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 295,
+    "name": "Phường Minh Khai",
+    "location": "20.9959104-105.8576533",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 298,
+    "name": "Phường Trương Định",
+    "location": "20.9937815-105.8466875",
+    "type": "Phường",
+    "districtId": 7
+  },
+  {
+    "id": 301,
+    "name": "Phường Thanh Trì",
+    "location": "20.994941-105.8906859",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 304,
+    "name": "Phường Vĩnh Hưng",
+    "location": "20.9892354-105.8745359",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 307,
+    "name": "Phường Định Công",
+    "location": "20.9831371-105.8319653",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 310,
+    "name": "Phường Mai Động",
+    "location": "20.9908669-105.8649934",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 313,
+    "name": "Phường Tương Mai",
+    "location": "20.9885702-105.8510475",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 316,
+    "name": "Phường Đại Kim",
+    "location": "20.9739692-105.8216911",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 319,
+    "name": "Phường Tân Mai",
+    "location": "20.983687-105.848156",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 322,
+    "name": "Phường Hoàng Văn Thụ",
+    "location": "20.9848364-105.8598553",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 325,
+    "name": "Phường Giáp Bát",
+    "location": "20.9836114-105.8422401",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 328,
+    "name": "Phường Lĩnh Nam",
+    "location": "20.9770005-105.896559",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 331,
+    "name": "Phường Thịnh Liệt",
+    "location": "20.9751142-105.8554513",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 334,
+    "name": "Phường Trần Phú",
+    "location": "20.9723243-105.884813",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 337,
+    "name": "Phường Hoàng Liệt",
+    "location": "20.9625316-105.8399127",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 340,
+    "name": "Phường Yên Sở",
+    "location": "20.9618527-105.8730678",
+    "type": "Phường",
+    "districtId": 8
+  },
+  {
+    "id": 343,
+    "name": "Phường Nhân Chính",
+    "location": "21.0046148-105.8040796",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 346,
+    "name": "Phường Thượng Đình",
+    "location": "21.0006046-105.8158204",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 349,
+    "name": "Phường Khương Trung",
+    "location": "20.9971504-105.8216911",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 352,
+    "name": "Phường Khương Mai",
+    "location": "20.9963153-105.8304975",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 355,
+    "name": "Phường Thanh Xuân Trung",
+    "location": "20.9959212-105.8040796",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 358,
+    "name": "Phường Phương Liệt",
+    "location": "20.9925823-105.8393044",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 361,
+    "name": "Phường Hạ Đình",
+    "location": "20.9866719-105.8099499",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 364,
+    "name": "Phường Khương Đình",
+    "location": "20.9887356-105.8187558",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 367,
+    "name": "Phường Thanh Xuân Bắc",
+    "location": "20.993579-105.7982094",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 370,
+    "name": "Phường Thanh Xuân Nam",
+    "location": "20.9855403-105.7989432",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 373,
+    "name": "Phường Kim Giang",
+    "location": "20.9828413-105.8121513",
+    "type": "Phường",
+    "districtId": 9
+  },
+  {
+    "id": 376,
+    "name": "Thị trấn Sóc Sơn",
+    "location": "21.2538445-105.8495796",
+    "type": "Thị trấn",
+    "districtId": 16
+  },
+  {
+    "id": 379,
+    "name": "Xã Bắc Sơn",
+    "location": "21.3636125-105.8231588",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 382,
+    "name": "Xã Minh Trí",
+    "location": "21.3322109-105.7879371",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 385,
+    "name": "Xã Hồng Kỳ",
+    "location": "21.3215666-105.8550831",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 388,
+    "name": "Xã Nam Sơn",
+    "location": "21.3235995-105.8172881",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 391,
+    "name": "Xã Trung Giã",
+    "location": "21.3153395-105.8730678",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 394,
+    "name": "Xã Tân Hưng",
+    "location": "21.2951248-105.9024322",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 397,
+    "name": "Xã Minh Phú",
+    "location": "21.2753602-105.776198",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 400,
+    "name": "Xã Phù Linh",
+    "location": "21.2802077-105.8466437",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 403,
+    "name": "Xã Bắc Phú",
+    "location": "21.27456-105.9053689",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 406,
+    "name": "Xã Tân Minh",
+    "location": "21.2779513-105.8701316",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 409,
+    "name": "Xã Quang Tiến",
+    "location": "21.251423-105.8143528",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 412,
+    "name": "Xã Hiền Ninh",
+    "location": "21.2510499-105.7879371",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 415,
+    "name": "Xã Tân Dân",
+    "location": "21.2529081-105.7380511",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 418,
+    "name": "Xã Tiên Dược",
+    "location": "21.2428157-105.843708",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 421,
+    "name": "Xã Việt Long",
+    "location": "21.24707-105.9200531",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 424,
+    "name": "Xã Xuân Giang",
+    "location": "21.2525117-105.8936224",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 427,
+    "name": "Xã Mai Đình",
+    "location": "21.2295659-105.8160445",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 430,
+    "name": "Xã Đức Hoà",
+    "location": "21.2304607-105.8818766",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 433,
+    "name": "Xã Thanh Xuân",
+    "location": "21.2301005-105.7644596",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 436,
+    "name": "Xã Đông Xuân",
+    "location": "21.2173817-105.8671954",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 439,
+    "name": "Xã Kim Lũ",
+    "location": "21.2134343-105.9083056",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 442,
+    "name": "Xã Phú Cường",
+    "location": "21.2046739-105.7879371",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 445,
+    "name": "Xã Phú Minh",
+    "location": "21.2024335-105.8114175",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 448,
+    "name": "Xã Phù Lỗ",
+    "location": "21.1990662-105.8466437",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 451,
+    "name": "Xã Xuân Thu",
+    "location": "21.1971793-105.896559",
+    "type": "Xã",
+    "districtId": 16
+  },
+  {
+    "id": 454,
+    "name": "Thị trấn Đông Anh",
+    "location": "21.1611142-105.8495796",
+    "type": "Thị trấn",
+    "districtId": 17
+  },
+  {
+    "id": 457,
+    "name": "Xã Xuân Nộn",
+    "location": "21.1852265-105.8701316",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 460,
+    "name": "Xã Thuỵ Lâm",
+    "location": "21.1713853-105.8936224",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 463,
+    "name": "Xã Bắc Hồng",
+    "location": "21.1766298-105.8084823",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 466,
+    "name": "Xã Nguyên Khê",
+    "location": "21.1796234-105.8378366",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 469,
+    "name": "Xã Nam Hồng",
+    "location": "21.1582993-105.7879371",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 472,
+    "name": "Xã Tiên Dương",
+    "location": "21.1538228-105.8349009",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 475,
+    "name": "Xã Vân Hà",
+    "location": "21.1491333-105.9141793",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 478,
+    "name": "Xã Uy Nỗ",
+    "location": "21.1431669-105.8554513",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 481,
+    "name": "Xã Vân Nội",
+    "location": "21.1470888-105.8143528",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 484,
+    "name": "Xã Liên Hà",
+    "location": "21.1482071-105.8936224",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 487,
+    "name": "Xã Việt Hùng",
+    "location": "21.140921-105.8789403",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 490,
+    "name": "Xã Kim Nỗ",
+    "location": "21.1371732-105.7967419",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 493,
+    "name": "Xã Kim Chung",
+    "location": "21.133051-105.7791327",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 496,
+    "name": "Xã Dục Tú",
+    "location": "21.1134405-105.8936224",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 499,
+    "name": "Xã Đại Mạch",
+    "location": "21.1183715-105.7606997",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 502,
+    "name": "Xã Vĩnh Ngọc",
+    "location": "21.1196638-105.8153566",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 505,
+    "name": "Xã Cổ Loa",
+    "location": "21.1156865-105.8701316",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 508,
+    "name": "Xã Hải Bối",
+    "location": "21.1108103-105.7996769",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 511,
+    "name": "Xã Xuân Canh",
+    "location": "21.0829044-105.8475265",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 514,
+    "name": "Xã Võng La",
+    "location": "21.1106142-105.7782478",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 517,
+    "name": "Xã Tầm Xá",
+    "location": "21.0958665-105.8349009",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 520,
+    "name": "Xã Mai Lâm",
+    "location": "21.0876468-105.8906859",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 523,
+    "name": "Xã Đông Hội",
+    "location": "21.0809178-105.8701316",
+    "type": "Xã",
+    "districtId": 17
+  },
+  {
+    "id": 526,
+    "name": "Thị trấn Yên Viên",
+    "location": "21.0846054-105.9149135",
+    "type": "Thị trấn",
+    "districtId": 18
+  },
+  {
+    "id": 529,
+    "name": "Xã Yên Thường",
+    "location": "21.0976543-105.9317349",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 532,
+    "name": "Xã Yên Viên",
+    "location": "21.079044-105.9200531",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 535,
+    "name": "Xã Ninh Hiệp",
+    "location": "21.0762299-105.9494248",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 538,
+    "name": "Xã Đình Xuyên",
+    "location": "21.0837124-105.9318012",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 541,
+    "name": "Xã Dương Hà",
+    "location": "21.0647433-105.9332698",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 544,
+    "name": "Xã Phù Đổng",
+    "location": "21.060339-105.9641124",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 547,
+    "name": "Xã Trung Mầu",
+    "location": "21.0606965-105.9905529",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 550,
+    "name": "Xã Lệ Chi",
+    "location": "21.047983-106.0023054",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 553,
+    "name": "Xã Cổ Bi",
+    "location": "21.0303618-105.9433771",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 556,
+    "name": "Xã Đặng Xá",
+    "location": "21.0287612-105.9611748",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 559,
+    "name": "Xã Phú Thị",
+    "location": "21.0276351-105.9729255",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 562,
+    "name": "Xã Kim Sơn",
+    "location": "21.0259443-105.9905529",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 565,
+    "name": "Thị trấn Trâu Quỳ",
+    "location": "21.0078386-105.9376756",
+    "type": "Thị trấn",
+    "districtId": 18
+  },
+  {
+    "id": 568,
+    "name": "Xã Dương Quang",
+    "location": "21.0085686-105.9905529",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 571,
+    "name": "Xã Dương Xá",
+    "location": "21.0024138-105.9641124",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 574,
+    "name": "Xã Đông Dư",
+    "location": "20.9927022-105.9141793",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 577,
+    "name": "Xã Đa Tốn",
+    "location": "20.9852277-105.9318012",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 580,
+    "name": "Xã Kiêu Kỵ",
+    "location": "20.9803677-105.9523622",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 583,
+    "name": "Xã Bát Tràng",
+    "location": "20.9773791-105.9136226",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 586,
+    "name": "Xã Kim Lan",
+    "location": "20.9603693-105.9039005",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 589,
+    "name": "Xã Văn Đức",
+    "location": "20.9396212-105.8936224",
+    "type": "Xã",
+    "districtId": 18
+  },
+  {
+    "id": 592,
+    "name": "Phường Cầu Diễn",
+    "location": "21.0345864-105.7629924",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 595,
+    "name": "Phường Thượng Cát",
+    "location": "21.0963665-105.7380511",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 598,
+    "name": "Phường Liên Mạc",
+    "location": "21.0831053-105.7556564",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 601,
+    "name": "Phường Đông Ngạc",
+    "location": "21.0919168-105.7850022",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 602,
+    "name": "Phường Đức Thắng",
+    "location": "21.0798488-105.7747307",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 604,
+    "name": "Phường Thụy Phương",
+    "location": "21.0833035-105.7688614",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 607,
+    "name": "Phường Tây Tựu",
+    "location": "21.0679338-105.7321831",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 610,
+    "name": "Phường Xuân Đỉnh",
+    "location": "21.0429936-105.7376668",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 611,
+    "name": "Phường Xuân Tảo",
+    "location": "21.0634093-105.7952744",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 613,
+    "name": "Phường Minh Khai",
+    "location": "21.0604722-105.7497878",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 616,
+    "name": "Phường Cổ Nhuế 1",
+    "location": "21.0506076-105.7909724",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 617,
+    "name": "Phường Cổ Nhuế 2",
+    "location": "21.0660875-105.7639698",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 619,
+    "name": "Phường Phú Diễn",
+    "location": "21.047768-105.7615252",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 620,
+    "name": "Phường Phúc Diễn",
+    "location": "21.04729-105.7512549",
+    "type": "Phường",
+    "districtId": 21
+  },
+  {
+    "id": 622,
+    "name": "Phường Xuân Phương",
+    "location": "21.0314868-105.7497878",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 623,
+    "name": "Phường Phương Canh",
+    "location": "21.0426019-105.7395182",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 625,
+    "name": "Phường Mỹ Đình 1",
+    "location": "21.0221606-105.771796",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 626,
+    "name": "Phường Mỹ Đình 2",
+    "location": "21.0279571-105.771796",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 628,
+    "name": "Phường Tây Mỗ",
+    "location": "21.0088528-105.7439194",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 631,
+    "name": "Phường Mễ Trì",
+    "location": "21.0055267-105.7791327",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 632,
+    "name": "Phường Phú Đô",
+    "location": "21.0124328-105.7673942",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 634,
+    "name": "Phường Đại Mỗ",
+    "location": "20.9898009-105.7615252",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 637,
+    "name": "Phường Trung Văn",
+    "location": "20.989171-105.7835348",
+    "type": "Phường",
+    "districtId": 19
+  },
+  {
+    "id": 640,
+    "name": "Thị trấn Văn Điển",
+    "location": "20.9493584-105.8444419",
+    "type": "Thị trấn",
+    "districtId": 20
+  },
+  {
+    "id": 643,
+    "name": "Xã Tân Triều",
+    "location": "20.9712048-105.8010533",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 646,
+    "name": "Xã Thanh Liệt",
+    "location": "20.9674199-105.8143528",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 649,
+    "name": "Xã Tả Thanh Oai",
+    "location": "20.933203-105.8084823",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 652,
+    "name": "Xã Hữu Hoà",
+    "location": "20.945903-105.7967419",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 655,
+    "name": "Xã Tam Hiệp",
+    "location": "20.948923-105.8260943",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 658,
+    "name": "Xã Tứ Hiệp",
+    "location": "20.9461418-105.8554513",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 661,
+    "name": "Xã Yên Mỹ",
+    "location": "20.9444705-105.8730678",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 664,
+    "name": "Xã Vĩnh Quỳnh",
+    "location": "20.9315381-105.8260943",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 667,
+    "name": "Xã Ngũ Hiệp",
+    "location": "20.9282023-105.8613233",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 670,
+    "name": "Xã Duyên Hà",
+    "location": "20.9259739-105.884813",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 673,
+    "name": "Xã Ngọc Hồi",
+    "location": "20.9182821-105.843708",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 676,
+    "name": "Xã Vạn Phúc",
+    "location": "20.918507-105.9024322",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 679,
+    "name": "Xã Đại áng",
+    "location": "20.9115334-105.8231588",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 682,
+    "name": "Xã Liên Ninh",
+    "location": "20.9061376-105.8495796",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 685,
+    "name": "Xã Đông Mỹ",
+    "location": "20.9221912-105.8725107",
+    "type": "Xã",
+    "districtId": 20
+  },
+  {
+    "id": 4927,
+    "name": "Xã Yên Trung",
+    "location": "21.0041459-105.4214515",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 4930,
+    "name": "Xã Yên Bình",
+    "location": "20.9919225-105.4595306",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 4936,
+    "name": "Xã Tiến Xuân",
+    "location": "20.9665439-105.4829681",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 4939,
+    "name": "Xã Đông Xuân",
+    "location": "20.963176-105.5135949",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 8973,
+    "name": "Thị trấn Chi Đông",
+    "location": "21.2048498-105.7556564",
+    "type": "Thị trấn",
+    "districtId": 250
+  },
+  {
+    "id": 8974,
+    "name": "Xã Đại Thịnh",
+    "location": "21.1850027-105.7204476",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 8977,
+    "name": "Xã Kim Hoa",
+    "location": "21.2207398-105.7409852",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 8980,
+    "name": "Xã Thạch Đà",
+    "location": "21.1720499-105.6735131",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 8983,
+    "name": "Xã Tiến Thắng",
+    "location": "21.2242433-105.6735131",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 8986,
+    "name": "Xã Tự Lập",
+    "location": "21.207955-105.6617813",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 8989,
+    "name": "Thị trấn Quang Minh",
+    "location": "21.1915793-105.7732633",
+    "type": "Thị trấn",
+    "districtId": 250
+  },
+  {
+    "id": 8992,
+    "name": "Xã Thanh Lâm",
+    "location": "21.2113735-105.7175138",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 8995,
+    "name": "Xã Tam Đồng",
+    "location": "21.1999357-105.6852455",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 8998,
+    "name": "Xã Liên Mạc",
+    "location": "21.1937334-105.6588485",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 9001,
+    "name": "Xã Vạn Yên",
+    "location": "21.1996782-105.6265908",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 9004,
+    "name": "Xã Chu Phan",
+    "location": "21.1589365-105.6588485",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 9007,
+    "name": "Xã Tiến Thịnh",
+    "location": "21.1753719-105.6383202",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 9010,
+    "name": "Xã Mê Linh",
+    "location": "21.1601408-105.7380511",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 9013,
+    "name": "Xã Văn Khê",
+    "location": "21.1660984-105.7057792",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 9016,
+    "name": "Xã Hoàng Kim",
+    "location": "21.1587884-105.6911121",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 9019,
+    "name": "Xã Tiền Phong",
+    "location": "21.1605321-105.7644596",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 9022,
+    "name": "Xã Tráng Việt",
+    "location": "21.1406828-105.7292491",
+    "type": "Xã",
+    "districtId": 250
+  },
+  {
+    "id": 9538,
+    "name": "Phường Nguyễn Trãi",
+    "location": "20.9699557-105.7798664",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9541,
+    "name": "Phường Mộ Lao",
+    "location": "20.9833749-105.7835348",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9542,
+    "name": "Phường Văn Quán",
+    "location": "20.9796446-105.7923394",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9544,
+    "name": "Phường Vạn Phúc",
+    "location": "20.9786876-105.771796",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9547,
+    "name": "Phường Yết Kiêu",
+    "location": "20.97458-105.7769317",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9550,
+    "name": "Phường Quang Trung",
+    "location": "20.9652675-105.7681278",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9551,
+    "name": "Phường La Khê",
+    "location": "20.9724114-105.7615252",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9552,
+    "name": "Phường Phú La",
+    "location": "20.9560561-105.7659269",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9553,
+    "name": "Phường Phúc La",
+    "location": "20.9654323-105.7894045",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9556,
+    "name": "Phường Hà Cầu",
+    "location": "20.9636429-105.7776653",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9562,
+    "name": "Phường Yên Nghĩa",
+    "location": "20.9540586-105.7409852",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9565,
+    "name": "Phường Kiến Hưng",
+    "location": "20.9528073-105.7850022",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9568,
+    "name": "Phường Phú Lãm",
+    "location": "20.9426712-105.7541892",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9571,
+    "name": "Phường Phú Lương",
+    "location": "20.93708-105.7673942",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9574,
+    "name": "Phường Lê Lợi",
+    "location": "21.1450319-105.5056761",
+    "type": "Phường",
+    "districtId": 269
+  },
+  {
+    "id": 9577,
+    "name": "Phường Phú Thịnh",
+    "location": "21.1537625-105.4976181",
+    "type": "Phường",
+    "districtId": 269
+  },
+  {
+    "id": 9580,
+    "name": "Phường Ngô Quyền",
+    "location": "21.1425408-105.5012808",
+    "type": "Phường",
+    "districtId": 269
+  },
+  {
+    "id": 9583,
+    "name": "Phường Quang Trung",
+    "location": "21.1347408-105.5071413",
+    "type": "Phường",
+    "districtId": 269
+  },
+  {
+    "id": 9586,
+    "name": "Phường Sơn Lộc",
+    "location": "21.1147313-105.4961531",
+    "type": "Phường",
+    "districtId": 269
+  },
+  {
+    "id": 9589,
+    "name": "Phường Xuân Khanh",
+    "location": "21.114733-105.4393571",
+    "type": "Phường",
+    "districtId": 269
+  },
+  {
+    "id": 9592,
+    "name": "Xã Đường Lâm",
+    "location": "21.1533196-105.471249",
+    "type": "Xã",
+    "districtId": 269
+  },
+  {
+    "id": 9595,
+    "name": "Phường Viên Sơn",
+    "location": "21.1493555-105.5100165",
+    "type": "Phường",
+    "districtId": 269
+  },
+  {
+    "id": 9598,
+    "name": "Xã Xuân Sơn",
+    "location": "21.1333747-105.4360963",
+    "type": "Xã",
+    "districtId": 269
+  },
+  {
+    "id": 9601,
+    "name": "Phường Trung Hưng",
+    "location": "21.1313193-105.5049436",
+    "type": "Phường",
+    "districtId": 269
+  },
+  {
+    "id": 9604,
+    "name": "Xã Thanh Mỹ",
+    "location": "21.1301068-105.471249",
+    "type": "Xã",
+    "districtId": 269
+  },
+  {
+    "id": 9607,
+    "name": "Phường Trung Sơn Trầm",
+    "location": "21.1073416-105.4976181",
+    "type": "Phường",
+    "districtId": 269
+  },
+  {
+    "id": 9610,
+    "name": "Xã Kim Sơn",
+    "location": "21.0847705-105.4595306",
+    "type": "Xã",
+    "districtId": 269
+  },
+  {
+    "id": 9613,
+    "name": "Xã Sơn Đông",
+    "location": "21.0709878-105.4829681",
+    "type": "Xã",
+    "districtId": 269
+  },
+  {
+    "id": 9616,
+    "name": "Xã Cổ Đông",
+    "location": "21.0455992-105.5064087",
+    "type": "Xã",
+    "districtId": 269
+  },
+  {
+    "id": 9619,
+    "name": "Thị trấn Tây Đằng",
+    "location": "21.2067429-105.4273093",
+    "type": "Thị trấn",
+    "districtId": 271
+  },
+  {
+    "id": 9625,
+    "name": "Xã Phú Cường",
+    "location": "21.2875615-105.4009508",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9628,
+    "name": "Xã Cổ Đô",
+    "location": "21.2813067-105.3745964",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9631,
+    "name": "Xã Tản Hồng",
+    "location": "21.2737673-105.4243804",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9634,
+    "name": "Xã Vạn Thắng",
+    "location": "21.2476907-105.3961124",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9637,
+    "name": "Xã Châu Sơn",
+    "location": "21.2636941-105.4390254",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9640,
+    "name": "Xã Phong Vân",
+    "location": "21.25695-105.3644935",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9643,
+    "name": "Xã Phú Đông",
+    "location": "21.2529444-105.3735664",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9646,
+    "name": "Xã Phú Phương",
+    "location": "21.2479196-105.4214515",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9649,
+    "name": "Xã Phú Châu",
+    "location": "21.2378481-105.4360963",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9652,
+    "name": "Xã Thái Hòa",
+    "location": "21.229732-105.3717935",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9655,
+    "name": "Xã Đồng Thái",
+    "location": "21.2259936-105.3968327",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9658,
+    "name": "Xã Phú Sơn",
+    "location": "21.2210548-105.3751855",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9661,
+    "name": "Xã Minh Châu",
+    "location": "21.2040143-105.4566012",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9664,
+    "name": "Xã Vật Lại",
+    "location": "21.2171301-105.3936297",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9667,
+    "name": "Xã Chu Minh",
+    "location": "21.1993025-105.4448838",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9670,
+    "name": "Xã Tòng Bạt",
+    "location": "21.1964493-105.3270223",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9673,
+    "name": "Xã Cẩm Lĩnh",
+    "location": "21.1846018-105.3626874",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9676,
+    "name": "Xã Sơn Đà",
+    "location": "21.1815106-105.3030109",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9679,
+    "name": "Xã Đông Quang",
+    "location": "21.1813452-105.4507424",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9682,
+    "name": "Xã Tiên Phong",
+    "location": "21.1719173-105.4273093",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9685,
+    "name": "Xã Thụy An",
+    "location": "21.1555579-105.419354",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9688,
+    "name": "Xã Cam Thượng",
+    "location": "21.1671989-105.4614531",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9691,
+    "name": "Xã Thuần Mỹ",
+    "location": "21.1527992-105.301984",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9694,
+    "name": "Xã Tản Lĩnh",
+    "location": "21.124523-105.3907014",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9697,
+    "name": "Xã Ba Trại",
+    "location": "21.1256787-105.3467822",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9700,
+    "name": "Xã Minh Quang",
+    "location": "21.0745356-105.3189726",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9703,
+    "name": "Xã Ba Vì",
+    "location": "21.0713032-105.3541013",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9706,
+    "name": "Xã Vân Hòa",
+    "location": "21.0669809-105.4009508",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9709,
+    "name": "Xã Yên Bài",
+    "location": "21.0341701-105.4419546",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9712,
+    "name": "Xã Khánh Thượng",
+    "location": "21.0259381-105.3423909",
+    "type": "Xã",
+    "districtId": 271
+  },
+  {
+    "id": 9715,
+    "name": "Thị trấn Phúc Thọ",
+    "location": "21.1029672-105.5445064",
+    "type": "Thị trấn",
+    "districtId": 272
+  },
+  {
+    "id": 9718,
+    "name": "Xã Vân Hà",
+    "location": "21.1596292-105.6207263",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9721,
+    "name": "Xã Vân Phúc",
+    "location": "21.151335-105.5855438",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9724,
+    "name": "Xã Vân Nam",
+    "location": "21.1491318-105.6089981",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9727,
+    "name": "Xã Xuân Phú",
+    "location": "21.1397333-105.5855438",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9730,
+    "name": "Xã Phương Độ",
+    "location": "21.1499289-105.5386447",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9733,
+    "name": "Xã Sen Chiểu",
+    "location": "21.1394212-105.5269218",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9736,
+    "name": "Xã Cẩm Đình",
+    "location": "21.1482825-105.5562304",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9739,
+    "name": "Xã Võng Xuyên",
+    "location": "21.1329554-105.5650239",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9742,
+    "name": "Xã Thọ Lộc",
+    "location": "21.1214676-105.5327831",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9745,
+    "name": "Xã Long Xuyên",
+    "location": "21.1170795-105.5796808",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9748,
+    "name": "Xã Thượng Cốc",
+    "location": "21.1270314-105.5972706",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9751,
+    "name": "Xã Hát Môn",
+    "location": "21.1253794-105.6148621",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9754,
+    "name": "Xã Tích Giang",
+    "location": "21.111505-105.5151997",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9757,
+    "name": "Xã Thanh Đa",
+    "location": "21.1132282-105.6207263",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9760,
+    "name": "Xã Trạch Mỹ Lộc",
+    "location": "21.0988074-105.5269218",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9763,
+    "name": "Xã Phúc Hòa",
+    "location": "21.1071243-105.5620927",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9766,
+    "name": "Xã Ngọc Tảo",
+    "location": "21.0974791-105.6031342",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9769,
+    "name": "Xã Phụng Thượng",
+    "location": "21.0933272-105.5855438",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9772,
+    "name": "Xã Tam Thuấn",
+    "location": "21.0952776-105.6265908",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9775,
+    "name": "Xã Tam Hiệp",
+    "location": "21.0789787-105.6148621",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9778,
+    "name": "Xã Hiệp Thuận",
+    "location": "21.0709773-105.6383202",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9781,
+    "name": "Xã Liên Hiệp",
+    "location": "21.053579-105.6383202",
+    "type": "Xã",
+    "districtId": 272
+  },
+  {
+    "id": 9784,
+    "name": "Thị trấn Phùng",
+    "location": "21.0877573-105.6603149",
+    "type": "Thị trấn",
+    "districtId": 273
+  },
+  {
+    "id": 9787,
+    "name": "Xã Trung Châu",
+    "location": "21.1495488-105.6353878",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9790,
+    "name": "Xã Thọ An",
+    "location": "21.1342209-105.6441852",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9793,
+    "name": "Xã Thọ Xuân",
+    "location": "21.1220695-105.6500504",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9796,
+    "name": "Xã Hồng Hà",
+    "location": "21.1335253-105.6823124",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9799,
+    "name": "Xã Liên Hồng",
+    "location": "21.1223332-105.7087128",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9802,
+    "name": "Xã Liên Hà",
+    "location": "21.1109055-105.7090807",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9805,
+    "name": "Xã Hạ Mỗ",
+    "location": "21.1129527-105.6852455",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9808,
+    "name": "Xã Liên Trung",
+    "location": "21.1085171-105.7321831",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9811,
+    "name": "Xã Phương Đình",
+    "location": "21.1052231-105.6441852",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9814,
+    "name": "Xã Thượng Mỗ",
+    "location": "21.1066725-105.6749796",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9817,
+    "name": "Xã Tân Hội",
+    "location": "21.0938962-105.7028457",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9820,
+    "name": "Xã Tân Lập",
+    "location": "21.0811921-105.7145801",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9823,
+    "name": "Xã Đan Phượng",
+    "location": "21.0959037-105.6661806",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9826,
+    "name": "Xã Đồng Tháp",
+    "location": "21.0814739-105.6500504",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9829,
+    "name": "Xã Song Phượng",
+    "location": "21.0798184-105.6676471",
+    "type": "Xã",
+    "districtId": 273
+  },
+  {
+    "id": 9832,
+    "name": "Thị trấn Trạm Trôi",
+    "location": "21.068562-105.7101796",
+    "type": "Thị trấn",
+    "districtId": 274
+  },
+  {
+    "id": 9835,
+    "name": "Xã Đức Thượng",
+    "location": "21.0776081-105.6911121",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9838,
+    "name": "Xã Minh Khai",
+    "location": "21.066357-105.6720466",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9841,
+    "name": "Xã Dương Liễu",
+    "location": "21.0579347-105.6691136",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9844,
+    "name": "Xã Di Trạch",
+    "location": "21.0458514-105.7204476",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9847,
+    "name": "Xã Đức Giang",
+    "location": "21.0585539-105.7087128",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9850,
+    "name": "Xã Cát Quế",
+    "location": "21.0502725-105.6735131",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9853,
+    "name": "Xã Kim Chung",
+    "location": "21.046958-105.7087128",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9856,
+    "name": "Xã Yên Sở",
+    "location": "21.0392266-105.6676471",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9859,
+    "name": "Xã Sơn Đồng",
+    "location": "21.0422656-105.6969788",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9862,
+    "name": "Xã Vân Canh",
+    "location": "21.033149-105.7321831",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9865,
+    "name": "Xã Đắc Sở",
+    "location": "21.0281142-105.6779127",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9868,
+    "name": "Xã Lại Yên",
+    "location": "21.0237665-105.7087128",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9871,
+    "name": "Xã Tiền Yên",
+    "location": "21.0259751-105.6852455",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9874,
+    "name": "Xã Song Phương",
+    "location": "21.0138269-105.6911121",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9877,
+    "name": "Xã An Khánh",
+    "location": "20.9994708-105.7204476",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9880,
+    "name": "Xã An Thượng",
+    "location": "20.9895318-105.7028457",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9883,
+    "name": "Xã Vân Côn",
+    "location": "20.9917365-105.6793792",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9886,
+    "name": "Phường Dương Nội",
+    "location": "20.979868-105.7439194",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 9889,
+    "name": "Xã La Phù",
+    "location": "20.979915-105.7325582",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9892,
+    "name": "Xã Đông La",
+    "location": "20.9704838-105.7204476",
+    "type": "Xã",
+    "districtId": 274
+  },
+  {
+    "id": 9895,
+    "name": "Thị trấn Quốc Oai",
+    "location": "20.9950369-105.6441852",
+    "type": "Thị trấn",
+    "districtId": 275
+  },
+  {
+    "id": 9898,
+    "name": "Xã Sài Sơn",
+    "location": "21.032456-105.6471178",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9901,
+    "name": "Xã Phượng Cách",
+    "location": "21.0123711-105.6603149",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9904,
+    "name": "Xã Yên Sơn",
+    "location": "21.0010487-105.6573821",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9907,
+    "name": "Xã Ngọc Liệp",
+    "location": "20.9961897-105.5959406",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9910,
+    "name": "Xã Ngọc Mỹ",
+    "location": "20.9986532-105.6469358",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9913,
+    "name": "Xã Liệp Tuyết",
+    "location": "20.9810755-105.6002926",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9916,
+    "name": "Xã Thạch Thán",
+    "location": "20.9889399-105.6357543",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9919,
+    "name": "Xã Đồng Quang",
+    "location": "20.974466-105.6471178",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9922,
+    "name": "Xã Phú Cát",
+    "location": "20.9716211-105.5532993",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9925,
+    "name": "Xã Tuyết Nghĩa",
+    "location": "20.9927839-105.6405971",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9928,
+    "name": "Xã Nghĩa Hương",
+    "location": "20.9745828-105.6148621",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9931,
+    "name": "Xã Cộng Hòa",
+    "location": "20.9638452-105.6676471",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9934,
+    "name": "Xã Tân Phú",
+    "location": "20.9726897-105.6969788",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9937,
+    "name": "Xã Đại Thành",
+    "location": "20.9657896-105.7087128",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9940,
+    "name": "Xã Phú Mãn",
+    "location": "20.9427091-105.5210607",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9943,
+    "name": "Xã Cấn Hữu",
+    "location": "20.9545582-105.6119301",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9946,
+    "name": "Xã Tân Hòa",
+    "location": "20.9627455-105.6793792",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9949,
+    "name": "Xã Hòa Thạch",
+    "location": "20.9473282-105.5650239",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9952,
+    "name": "Xã Đông Yên",
+    "location": "20.9335457-105.5884754",
+    "type": "Xã",
+    "districtId": 275
+  },
+  {
+    "id": 9955,
+    "name": "Thị trấn Liên Quan",
+    "location": "21.0548585-105.578215",
+    "type": "Thị trấn",
+    "districtId": 276
+  },
+  {
+    "id": 9958,
+    "name": "Xã Đại Đồng",
+    "location": "21.0897208-105.5620927",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9961,
+    "name": "Xã Cẩm Yên",
+    "location": "21.0861099-105.5386447",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9964,
+    "name": "Xã Lại Thượng",
+    "location": "21.0774957-105.549062",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9967,
+    "name": "Xã Phú Kim",
+    "location": "21.0624552-105.5775028",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9970,
+    "name": "Xã Hương Ngải",
+    "location": "21.0574264-105.5972706",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9973,
+    "name": "Xã Canh Nậu",
+    "location": "21.0563282-105.6089981",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9976,
+    "name": "Xã Kim Quan",
+    "location": "21.0501429-105.567595",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9979,
+    "name": "Xã Dị Nậu",
+    "location": "21.0488797-105.6265908",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9982,
+    "name": "Xã Bình Yên",
+    "location": "21.0423255-105.5415755",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9985,
+    "name": "Xã Chàng Sơn",
+    "location": "21.0333851-105.5925999",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9988,
+    "name": "Xã Thạch Hoà",
+    "location": "20.9829917-105.5311811",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9991,
+    "name": "Xã Cần Kiệm",
+    "location": "21.0166652-105.5794624",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9994,
+    "name": "Xã Hữu Bằng",
+    "location": "21.0272159-105.6147432",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 9997,
+    "name": "Xã Phùng Xá",
+    "location": "21.0146314-105.6207263",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 10000,
+    "name": "Xã Tân Xã",
+    "location": "21.0277701-105.557696",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 10003,
+    "name": "Xã Thạch Xá",
+    "location": "21.028586-105.5956758",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 10006,
+    "name": "Xã Bình Phú",
+    "location": "21.0273237-105.6065328",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 10009,
+    "name": "Xã Hạ Bằng",
+    "location": "21.0016661-105.557696",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 10012,
+    "name": "Xã Đồng Trúc",
+    "location": "20.9938865-105.5694474",
+    "type": "Xã",
+    "districtId": 276
+  },
+  {
+    "id": 10015,
+    "name": "Thị trấn Chúc Sơn",
+    "location": "20.9246569-105.7145801",
+    "type": "Thị trấn",
+    "districtId": 277
+  },
+  {
+    "id": 10018,
+    "name": "Thị trấn Xuân Mai",
+    "location": "20.896292-105.5787167",
+    "type": "Thị trấn",
+    "districtId": 277
+  },
+  {
+    "id": 10021,
+    "name": "Xã Phụng Châu",
+    "location": "20.948948-105.7028457",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10024,
+    "name": "Xã Tiên Phương",
+    "location": "20.9363793-105.6823124",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10027,
+    "name": "Xã Đông Sơn",
+    "location": "20.9218414-105.6207263",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10030,
+    "name": "Xã Đông Phương Yên",
+    "location": "20.9317973-105.6383202",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10033,
+    "name": "Xã Phú Nghĩa",
+    "location": "20.9359513-105.6559158",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10039,
+    "name": "Xã Trường Yên",
+    "location": "20.9127576-105.6559158",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10042,
+    "name": "Xã Ngọc Hòa",
+    "location": "20.915812-105.6852455",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10045,
+    "name": "Xã Thủy Xuân Tiên",
+    "location": "20.8845203-105.5855438",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10048,
+    "name": "Xã Thanh Bình",
+    "location": "20.9044441-105.6207263",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10051,
+    "name": "Xã Trung Hòa",
+    "location": "20.8959102-105.6500504",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10054,
+    "name": "Xã Đại Yên",
+    "location": "20.8978697-105.6911121",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10057,
+    "name": "Xã Thụy Hương",
+    "location": "20.9072654-105.7145801",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10060,
+    "name": "Xã Tốt Động",
+    "location": "20.8821226-105.6735131",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10063,
+    "name": "Xã Lam Điền",
+    "location": "20.8867006-105.7175138",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10066,
+    "name": "Xã Tân Tiến",
+    "location": "20.8744588-105.6002024",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10069,
+    "name": "Xã Nam Phương Tiến",
+    "location": "20.8287677-105.5848109",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10072,
+    "name": "Xã Hợp Đồng",
+    "location": "20.8799282-105.6969788",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10075,
+    "name": "Xã Hoàng Văn Thụ",
+    "location": "20.8595873-105.6353878",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10078,
+    "name": "Xã Hoàng Diệu",
+    "location": "20.8592403-105.7321831",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10081,
+    "name": "Xã Hữu Văn",
+    "location": "20.8658243-105.6617813",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10084,
+    "name": "Xã Quảng Bị",
+    "location": "20.856739-105.6969788",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10087,
+    "name": "Xã Mỹ Lương",
+    "location": "20.8536811-105.6676471",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10090,
+    "name": "Xã Thượng Vực",
+    "location": "20.8487464-105.7204476",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10093,
+    "name": "Xã Hồng Phong",
+    "location": "20.8393475-105.6969788",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10096,
+    "name": "Xã Đồng Phú",
+    "location": "20.8319052-105.7145801",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10099,
+    "name": "Xã Trần Phú",
+    "location": "20.8331155-105.6705801",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10102,
+    "name": "Xã Văn Võ",
+    "location": "20.8297086-105.7380511",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10105,
+    "name": "Xã Đồng Lạc",
+    "location": "20.8178012-105.6793792",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10108,
+    "name": "Xã Hòa Chính",
+    "location": "20.8139667-105.7204476",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10111,
+    "name": "Xã Phú Nam An",
+    "location": "20.8175668-105.7439194",
+    "type": "Xã",
+    "districtId": 277
+  },
+  {
+    "id": 10114,
+    "name": "Thị trấn Kim Bài",
+    "location": "20.8559363-105.7673942",
+    "type": "Thị trấn",
+    "districtId": 278
+  },
+  {
+    "id": 10117,
+    "name": "Phường Đồng Mai",
+    "location": "20.9308715-105.7409852",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 10120,
+    "name": "Xã Cự Khê",
+    "location": "20.9238282-105.7850022",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10123,
+    "name": "Phường Biên Giang",
+    "location": "20.9283162-105.7219145",
+    "type": "Phường",
+    "districtId": 268
+  },
+  {
+    "id": 10126,
+    "name": "Xã Bích Hòa",
+    "location": "20.9170698-105.7644596",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10129,
+    "name": "Xã Mỹ Hưng",
+    "location": "20.9021599-105.7996769",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10132,
+    "name": "Xã Cao Viên",
+    "location": "20.9045109-105.7439194",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10135,
+    "name": "Xã Bình Minh",
+    "location": "20.8959551-105.7732633",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10138,
+    "name": "Xã Tam Hưng",
+    "location": "20.8800846-105.7879371",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10141,
+    "name": "Xã Thanh Cao",
+    "location": "20.8865704-105.7497878",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10144,
+    "name": "Xã Thanh Thùy",
+    "location": "20.8752513-105.8084823",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10147,
+    "name": "Xã Thanh Mai",
+    "location": "20.8691816-105.7497878",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10150,
+    "name": "Xã Thanh Văn",
+    "location": "20.8520715-105.8084823",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10153,
+    "name": "Xã Đỗ Động",
+    "location": "20.8453123-105.7879371",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10156,
+    "name": "Xã Kim An",
+    "location": "20.8407512-105.7439194",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10159,
+    "name": "Xã Kim Thư",
+    "location": "20.8385491-105.7673942",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10162,
+    "name": "Xã Phương Trung",
+    "location": "20.8269579-105.7673942",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10165,
+    "name": "Xã Tân Ước",
+    "location": "20.8315134-105.8114175",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10168,
+    "name": "Xã Dân Hòa",
+    "location": "20.8131631-105.790872",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10171,
+    "name": "Xã Liên Châu",
+    "location": "20.8104037-105.8202234",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10174,
+    "name": "Xã Cao Dương",
+    "location": "20.8101214-105.7615252",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10177,
+    "name": "Xã Xuân Dương",
+    "location": "20.7996295-105.7497878",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10180,
+    "name": "Xã Hồng Dương",
+    "location": "20.7989511-105.7879371",
+    "type": "Xã",
+    "districtId": 278
+  },
+  {
+    "id": 10183,
+    "name": "Thị trấn Thường Tín",
+    "location": "20.8715715-105.8627913",
+    "type": "Thị trấn",
+    "districtId": 279
+  },
+  {
+    "id": 10186,
+    "name": "Xã Ninh Sở",
+    "location": "20.8970059-105.884813",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10189,
+    "name": "Xã Nhị Khê",
+    "location": "20.8951043-105.843708",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10192,
+    "name": "Xã Duyên Thái",
+    "location": "20.8986756-105.8671954",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10195,
+    "name": "Xã Khánh Hà",
+    "location": "20.8909742-105.8260943",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10198,
+    "name": "Xã Hòa Bình",
+    "location": "20.878276-105.8378366",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10201,
+    "name": "Xã Văn Bình",
+    "location": "20.8850245-105.8583873",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10204,
+    "name": "Xã Hiền Giang",
+    "location": "20.8741441-105.8202234",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10207,
+    "name": "Xã Hồng Vân",
+    "location": "20.8773976-105.9083056",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10210,
+    "name": "Xã Vân Tảo",
+    "location": "20.8727188-105.896559",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10213,
+    "name": "Xã Liên Phương",
+    "location": "20.8585549-105.8855471",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10216,
+    "name": "Xã Văn Phú",
+    "location": "20.8713722-105.8495796",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10219,
+    "name": "Xã Tự Nhiên",
+    "location": "20.8583468-105.9259271",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10222,
+    "name": "Xã Tiền Phong",
+    "location": "20.8556526-105.8319653",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10225,
+    "name": "Xã Hà Hồi",
+    "location": "20.8628013-105.8789403",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10228,
+    "name": "Xã Thư Phú",
+    "location": "20.8600189-105.9083056",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10231,
+    "name": "Xã Nguyễn Trãi",
+    "location": "20.8476414-105.8554513",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10234,
+    "name": "Xã Quất Động",
+    "location": "20.8401829-105.8730678",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10237,
+    "name": "Xã Chương Dương",
+    "location": "20.8484333-105.9083056",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10240,
+    "name": "Xã Tân Minh",
+    "location": "20.8377159-105.8378366",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10243,
+    "name": "Xã Lê Lợi",
+    "location": "20.8316114-105.9024322",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10246,
+    "name": "Xã Thắng Lợi",
+    "location": "20.8248668-105.8818766",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10249,
+    "name": "Xã Dũng Tiến",
+    "location": "20.8186724-105.8554513",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10252,
+    "name": "Xã Thống Nhất",
+    "location": "20.8020921-105.9083056",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10255,
+    "name": "Xã Nghiêm Xuyên",
+    "location": "20.807085-105.8554513",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10258,
+    "name": "Xã Tô Hiệu",
+    "location": "20.8037584-105.8906859",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10261,
+    "name": "Xã Văn Tự",
+    "location": "20.7869345-105.884813",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10264,
+    "name": "Xã Vạn Điểm",
+    "location": "20.7847147-105.9083056",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10267,
+    "name": "Xã Minh Cường",
+    "location": "20.7621001-105.9024322",
+    "type": "Xã",
+    "districtId": 279
+  },
+  {
+    "id": 10270,
+    "name": "Thị trấn Phú Minh",
+    "location": "20.7825722-105.9156477",
+    "type": "Thị trấn",
+    "districtId": 280
+  },
+  {
+    "id": 10273,
+    "name": "Thị trấn Phú Xuyên",
+    "location": "20.7383765-105.9083056",
+    "type": "Thị trấn",
+    "districtId": 280
+  },
+  {
+    "id": 10276,
+    "name": "Xã Hồng Minh",
+    "location": "20.7924684-105.8260943",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10279,
+    "name": "Xã Phượng Dực",
+    "location": "20.7962276-105.8451937",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10282,
+    "name": "Xã Văn Nhân",
+    "location": "20.7714636-105.9259271",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10285,
+    "name": "Xã Thụy Phú",
+    "location": "20.7761432-105.9376756",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10288,
+    "name": "Xã Tri Trung",
+    "location": "20.775086-105.8260943",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10291,
+    "name": "Xã Đại Thắng",
+    "location": "20.7706637-105.8730678",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10294,
+    "name": "Xã Phú Túc",
+    "location": "20.7619792-105.8114175",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10297,
+    "name": "Xã Văn Hoàng",
+    "location": "20.7723237-105.8554513",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10300,
+    "name": "Xã Hồng Thái",
+    "location": "20.7602732-105.9523622",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10303,
+    "name": "Xã Hoàng Long",
+    "location": "20.7481857-105.8349009",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10306,
+    "name": "Xã Quang Trung",
+    "location": "20.7637631-105.884813",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10309,
+    "name": "Xã Nam Phong",
+    "location": "20.7540878-105.9259271",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10312,
+    "name": "Xã Nam Triều",
+    "location": "20.7471849-105.9376756",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10315,
+    "name": "Xã Tân Dân",
+    "location": "20.7474917-105.8730678",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10318,
+    "name": "Xã Sơn Hà",
+    "location": "20.7510696-105.896559",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10321,
+    "name": "Xã Chuyên Mỹ",
+    "location": "20.7215981-105.8704805",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10324,
+    "name": "Xã Khai Thái",
+    "location": "20.7223523-105.9552997",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10327,
+    "name": "Xã Phúc Tiến",
+    "location": "20.7251289-105.9259271",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10330,
+    "name": "Xã Vân Từ",
+    "location": "20.7168688-105.8906859",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10333,
+    "name": "Xã Tri Thủy",
+    "location": "20.7113258-105.9494248",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10336,
+    "name": "Xã Đại Xuyên",
+    "location": "20.7003229-105.9157274",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10339,
+    "name": "Xã Phú Yên",
+    "location": "20.6989389-105.896559",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10342,
+    "name": "Xã Bạch Hạ",
+    "location": "20.6881616-105.9494248",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10345,
+    "name": "Xã Quang Lãng",
+    "location": "20.6920126-105.9836698",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10348,
+    "name": "Xã Châu Can",
+    "location": "20.6836293-105.9053689",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10351,
+    "name": "Xã Minh Tân",
+    "location": "20.6696794-105.9611748",
+    "type": "Xã",
+    "districtId": 280
+  },
+  {
+    "id": 10354,
+    "name": "Thị trấn Vân Đình",
+    "location": "20.7337728-105.7704551",
+    "type": "Thị trấn",
+    "districtId": 281
+  },
+  {
+    "id": 10357,
+    "name": "Xã Viên An",
+    "location": "20.8018254-105.7263152",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10360,
+    "name": "Xã Viên Nội",
+    "location": "20.7902328-105.7263152",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10363,
+    "name": "Xã Hoa Sơn",
+    "location": "20.7764465-105.7497878",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10366,
+    "name": "Xã Quảng Phú Cầu",
+    "location": "20.7748261-105.7704148",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10369,
+    "name": "Xã Trường Thịnh",
+    "location": "20.758511-105.7556564",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10372,
+    "name": "Xã Cao Thành",
+    "location": "20.7665002-105.7321831",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10375,
+    "name": "Xã Liên Bạt",
+    "location": "20.7536915-105.776198",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10378,
+    "name": "Xã Sơn Công",
+    "location": "20.7475827-105.7175138",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10381,
+    "name": "Xã Đồng Tiến",
+    "location": "20.7453929-105.7409852",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10384,
+    "name": "Xã Phương Tú",
+    "location": "20.7399029-105.7996769",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10387,
+    "name": "Xã Trung Tú",
+    "location": "20.7281835-105.8319653",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10390,
+    "name": "Xã Đồng Tân",
+    "location": "20.7097007-105.843708",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10393,
+    "name": "Xã Tảo Dương Văn",
+    "location": "20.708858-105.790872",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10396,
+    "name": "Xã Vạn Thái",
+    "location": "20.6989147-105.7732633",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10399,
+    "name": "Xã Minh Đức",
+    "location": "20.7017014-105.8671954",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10402,
+    "name": "Xã Hòa Lâm",
+    "location": "20.6827048-105.8201839",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10405,
+    "name": "Xã Hòa Xá",
+    "location": "20.696075-105.7571236",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10408,
+    "name": "Xã Trầm Lộng",
+    "location": "20.6902502-105.8349009",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10411,
+    "name": "Xã Kim Đường",
+    "location": "20.6753586-105.8701316",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10414,
+    "name": "Xã Hòa Nam",
+    "location": "20.6826258-105.7615252",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10417,
+    "name": "Xã Hòa Phú",
+    "location": "20.6746404-105.7850022",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10420,
+    "name": "Xã Đội Bình",
+    "location": "20.6603098-105.8143528",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10423,
+    "name": "Xã Đại Hùng",
+    "location": "20.6696986-105.8378366",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10426,
+    "name": "Xã Đông Lỗ",
+    "location": "20.6594987-105.884813",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10429,
+    "name": "Xã Phù Lưu",
+    "location": "20.6625038-105.790872",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10432,
+    "name": "Xã Đại Cường",
+    "location": "20.6564618-105.8554513",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10435,
+    "name": "Xã Lưu Hoàng",
+    "location": "20.6492712-105.8084823",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10438,
+    "name": "Xã Hồng Quang",
+    "location": "20.6213986-105.7967419",
+    "type": "Xã",
+    "districtId": 281
+  },
+  {
+    "id": 10441,
+    "name": "Thị trấn Đại Nghĩa",
+    "location": "20.685899-105.7421069",
+    "type": "Thị trấn",
+    "districtId": 282
+  },
+  {
+    "id": 10444,
+    "name": "Xã Đồng Tâm",
+    "location": "20.8008616-105.6764671",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10447,
+    "name": "Xã Thượng Lâm",
+    "location": "20.789361-105.6735131",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10450,
+    "name": "Xã Tuy Lai",
+    "location": "20.7635461-105.6705801",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10453,
+    "name": "Xã Phúc Lâm",
+    "location": "20.8156114-105.7028457",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10456,
+    "name": "Xã Mỹ Thành",
+    "location": "20.775581-105.6969788",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10459,
+    "name": "Xã Bột Xuyên",
+    "location": "20.7739396-105.7145801",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10462,
+    "name": "Xã An Mỹ",
+    "location": "20.7529404-105.6911121",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10465,
+    "name": "Xã Hồng Sơn",
+    "location": "20.7213561-105.6881332",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10468,
+    "name": "Xã Lê Thanh",
+    "location": "20.7270229-105.7204476",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10471,
+    "name": "Xã Xuy Xá",
+    "location": "20.7137907-105.7380511",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10474,
+    "name": "Xã Phùng Xá",
+    "location": "20.7222567-105.762346",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10477,
+    "name": "Xã Phù Lưu Tế",
+    "location": "20.6964043-105.7380511",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10480,
+    "name": "Xã Đại Hưng",
+    "location": "20.6681271-105.7687423",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10483,
+    "name": "Xã Vạn Kim",
+    "location": "20.6462166-105.7791327",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10486,
+    "name": "Xã Đốc Tín",
+    "location": "20.6346282-105.7791327",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10489,
+    "name": "Xã Hương Sơn",
+    "location": "20.6041258-105.7644596",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10492,
+    "name": "Xã Hùng Tiến",
+    "location": "20.6368144-105.7556564",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10495,
+    "name": "Xã An Tiến",
+    "location": "20.6553527-105.7322931",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10498,
+    "name": "Xã Hợp Tiến",
+    "location": "20.6865927-105.6992269",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10501,
+    "name": "Xã Hợp Thanh",
+    "location": "20.6690058-105.702982",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 10504,
+    "name": "Xã An Phú",
+    "location": "20.6553527-105.7322931",
+    "type": "Xã",
+    "districtId": 282
+  },
+  {
+    "id": 20194,
+    "name": "Phường Hòa Hiệp Bắc",
+    "location": "16.1531669-108.1072924",
+    "type": "Phường",
+    "districtId": 490
+  },
+  {
+    "id": 20195,
+    "name": "Phường Hòa Hiệp Nam",
+    "location": "16.0996754-108.1369375",
+    "type": "Phường",
+    "districtId": 490
+  },
+  {
+    "id": 20197,
+    "name": "Phường Hòa Khánh Bắc",
+    "location": "16.0770582-108.1369375",
+    "type": "Phường",
+    "districtId": 490
+  },
+  {
+    "id": 20198,
+    "name": "Phường Hòa Khánh Nam",
+    "location": "16.0534112-108.1487964",
+    "type": "Phường",
+    "districtId": 490
+  },
+  {
+    "id": 20200,
+    "name": "Phường Hòa Minh",
+    "location": "16.0657336-108.1695504",
+    "type": "Phường",
+    "districtId": 490
+  },
+  {
+    "id": 20203,
+    "name": "Phường Tam Thuận",
+    "location": "16.073028-108.207356",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20206,
+    "name": "Phường Thanh Khê Tây",
+    "location": "16.0753709-108.1757111",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20207,
+    "name": "Phường Thanh Khê Đông",
+    "location": "16.068549-108.1858582",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20209,
+    "name": "Phường Xuân Hà",
+    "location": "16.0729052-108.2006841",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20212,
+    "name": "Phường Tân Chính",
+    "location": "16.0699425-108.2103213",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20215,
+    "name": "Phường Chính Gián",
+    "location": "16.0666114-108.1999428",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20218,
+    "name": "Phường Vĩnh Trung",
+    "location": "16.0613352-108.211804",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20221,
+    "name": "Phường Thạc Gián",
+    "location": "16.0639085-108.2066146",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20224,
+    "name": "Phường An Khê",
+    "location": "16.0487665-108.1858582",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20225,
+    "name": "Phường Hòa Khê",
+    "location": "16.0626376-108.1888233",
+    "type": "Phường",
+    "districtId": 491
+  },
+  {
+    "id": 20227,
+    "name": "Phường Thanh Bình",
+    "location": "16.0847145-108.2110626",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20230,
+    "name": "Phường Thuận Phước",
+    "location": "16.0867152-108.219116",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20233,
+    "name": "Phường Thạch Thang",
+    "location": "16.0772091-108.2195612",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20236,
+    "name": "Phường Hải Châu  I",
+    "location": "16.0704512-108.2230567",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20239,
+    "name": "Phường Hải Châu II",
+    "location": "16.0665976-108.216252",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20242,
+    "name": "Phường Phước Ninh",
+    "location": "16.0626112-108.2214415",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20245,
+    "name": "Phường Hòa Thuận Tây",
+    "location": "16.0466947-108.20958",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20246,
+    "name": "Phường Hòa Thuận Đông",
+    "location": "16.0513088-108.2214415",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20248,
+    "name": "Phường Nam Dương",
+    "location": "16.0609461-108.216252",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20251,
+    "name": "Phường Bình Hiên",
+    "location": "16.0576014-108.2221829",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20254,
+    "name": "Phường Bình Thuận",
+    "location": "16.055165-108.2177347",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20257,
+    "name": "Phường Hòa Cường Bắc",
+    "location": "16.0423876-108.22223",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20258,
+    "name": "Phường Hòa Cường Nam",
+    "location": "16.0331097-108.2242356",
+    "type": "Phường",
+    "districtId": 492
+  },
+  {
+    "id": 20260,
+    "name": "Phường Khuê Trung",
+    "location": "16.0238326-108.2125453",
+    "type": "Phường",
+    "districtId": 495
+  },
+  {
+    "id": 20263,
+    "name": "Phường Thọ Quang",
+    "location": "16.1069981-108.2521815",
+    "type": "Phường",
+    "districtId": 493
+  },
+  {
+    "id": 20266,
+    "name": "Phường Nại Hiên Đông",
+    "location": "16.1001118-108.2288552",
+    "type": "Phường",
+    "districtId": 493
+  },
+  {
+    "id": 20269,
+    "name": "Phường Mân Thái",
+    "location": "16.0872462-108.2466488",
+    "type": "Phường",
+    "districtId": 493
+  },
+  {
+    "id": 20272,
+    "name": "Phường An Hải Bắc",
+    "location": "16.0769838-108.2347863",
+    "type": "Phường",
+    "districtId": 493
+  },
+  {
+    "id": 20275,
+    "name": "Phường Phước Mỹ",
+    "location": "16.0702924-108.2466488",
+    "type": "Phường",
+    "districtId": 493
+  },
+  {
+    "id": 20278,
+    "name": "Phường An Hải Tây",
+    "location": "16.0590068-108.230338",
+    "type": "Phường",
+    "districtId": 493
+  },
+  {
+    "id": 20281,
+    "name": "Phường An Hải Đông",
+    "location": "16.0641384-108.2362691",
+    "type": "Phường",
+    "districtId": 493
+  },
+  {
+    "id": 20284,
+    "name": "Phường Mỹ An",
+    "location": "16.0476897-108.2466488",
+    "type": "Phường",
+    "districtId": 494
+  },
+  {
+    "id": 20285,
+    "name": "Phường Khuê Mỹ",
+    "location": "16.0302205-108.2525802",
+    "type": "Phường",
+    "districtId": 494
+  },
+  {
+    "id": 20287,
+    "name": "Phường Hoà Quý",
+    "location": "15.982958-108.2334189",
+    "type": "Phường",
+    "districtId": 494
+  },
+  {
+    "id": 20290,
+    "name": "Phường Hoà Hải",
+    "location": "15.986558-108.2674092",
+    "type": "Phường",
+    "districtId": 494
+  },
+  {
+    "id": 20293,
+    "name": "Xã Hòa Bắc",
+    "location": "16.1179841-107.9827977",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20296,
+    "name": "Xã Hòa Liên",
+    "location": "16.087358-108.0835783",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20299,
+    "name": "Xã Hòa Ninh",
+    "location": "16.0482758-108.0124469",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20302,
+    "name": "Xã Hòa Sơn",
+    "location": "16.0451998-108.1132212",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20305,
+    "name": "Phường Hòa Phát",
+    "location": "16.0287361-108.1725154",
+    "type": "Phường",
+    "districtId": 495
+  },
+  {
+    "id": 20306,
+    "name": "Phường Hòa An",
+    "location": "16.0482589-108.1754804",
+    "type": "Phường",
+    "districtId": 495
+  },
+  {
+    "id": 20308,
+    "name": "Xã Hòa Nhơn",
+    "location": "16.0102532-108.1250791",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20311,
+    "name": "Phường Hòa Thọ Tây",
+    "location": "16.0086987-108.1754804",
+    "type": "Phường",
+    "districtId": 495
+  },
+  {
+    "id": 20312,
+    "name": "Phường Hòa Thọ Đông",
+    "location": "16.0122832-108.1992015",
+    "type": "Phường",
+    "districtId": 495
+  },
+  {
+    "id": 20314,
+    "name": "Phường Hòa Xuân",
+    "location": "16.0019983-108.2199588",
+    "type": "Phường",
+    "districtId": 495
+  },
+  {
+    "id": 20317,
+    "name": "Xã Hòa Phú",
+    "location": "15.9804156-108.0124469",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20320,
+    "name": "Xã Hòa Phong",
+    "location": "15.9876461-108.1250791",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20323,
+    "name": "Xã Hòa Châu",
+    "location": "15.9845497-108.193271",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20326,
+    "name": "Xã Hòa Tiến",
+    "location": "15.9722296-108.1725154",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20329,
+    "name": "Xã Hòa Phước",
+    "location": "15.9660545-108.2110626",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 20332,
+    "name": "Xã Hòa Khương",
+    "location": "15.9557912-108.1013637",
+    "type": "Xã",
+    "districtId": 497
+  },
+  {
+    "id": 26734,
+    "name": "Phường Tân Định",
+    "location": "10.7930968-106.6902951",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26737,
+    "name": "Phường Đa Kao",
+    "location": "10.7878843-106.6984026",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26740,
+    "name": "Phường Bến Nghé",
+    "location": "10.7808334-106.702825",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26743,
+    "name": "Phường Bến Thành",
+    "location": "10.7735994-106.6944173",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26746,
+    "name": "Phường Nguyễn Thái Bình",
+    "location": "10.7693846-106.7006138",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26749,
+    "name": "Phường Phạm Ngũ Lão",
+    "location": "10.7658855-106.6908105",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26752,
+    "name": "Phường Cầu Ông Lãnh",
+    "location": "10.7655446-106.6961914",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26755,
+    "name": "Phường Cô Giang",
+    "location": "10.7616235-106.6932433",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26758,
+    "name": "Phường Nguyễn Cư Trinh",
+    "location": "10.7640301-106.68661",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26761,
+    "name": "Phường Cầu Kho",
+    "location": "10.7577834-106.6888211",
+    "type": "Phường",
+    "districtId": 760
+  },
+  {
+    "id": 26764,
+    "name": "Phường Thạnh Xuân",
+    "location": "10.8834303-106.6703963",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26767,
+    "name": "Phường Thạnh Lộc",
+    "location": "10.8712302-106.6859815",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26770,
+    "name": "Phường Hiệp Thành",
+    "location": "10.8825023-106.6379724",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26773,
+    "name": "Phường Thới An",
+    "location": "10.8760697-106.6556575",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26776,
+    "name": "Phường Tân Chánh Hiệp",
+    "location": "10.866797-106.6261831",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26779,
+    "name": "Phường An Phú Đông",
+    "location": "10.8596614-106.7057733",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26782,
+    "name": "Phường Tân Thới Hiệp",
+    "location": "10.8603672-106.6438673",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26785,
+    "name": "Phường Trung Mỹ Tây",
+    "location": "10.856544-106.6143944",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26787,
+    "name": "Phường Tân Hưng Thuận",
+    "location": "10.8384209-106.6217623",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26788,
+    "name": "Phường Đông Hưng Thuận",
+    "location": "10.8433839-106.630604",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26791,
+    "name": "Phường Tân Thới Nhất",
+    "location": "10.8292885-106.6143944",
+    "type": "Phường",
+    "districtId": 761
+  },
+  {
+    "id": 26794,
+    "name": "Phường Linh Xuân",
+    "location": "10.8804079-106.773595",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26797,
+    "name": "Phường Bình Chiểu",
+    "location": "10.8830404-106.7264125",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26800,
+    "name": "Phường Linh Trung",
+    "location": "10.8637312-106.7794935",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26803,
+    "name": "Phường Tam Bình",
+    "location": "10.8676413-106.7337841",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26806,
+    "name": "Phường Tam Phú",
+    "location": "10.8551341-106.7382072",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26809,
+    "name": "Phường Hiệp Bình Phước",
+    "location": "10.8455467-106.7146184",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26812,
+    "name": "Phường Hiệp Bình Chánh",
+    "location": "10.8339953-106.7264125",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26815,
+    "name": "Phường Linh Chiểu",
+    "location": "10.8538209-106.7617984",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26818,
+    "name": "Phường Linh Tây",
+    "location": "10.8560516-106.7535475",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26821,
+    "name": "Phường Linh Đông",
+    "location": "10.843909-106.7441048",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26824,
+    "name": "Phường Bình Thọ",
+    "location": "10.8467644-106.7662221",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26827,
+    "name": "Phường Trường Thọ",
+    "location": "10.832358-106.7559004",
+    "type": "Phường",
+    "districtId": 762
+  },
+  {
+    "id": 26830,
+    "name": "Phường Long Bình",
+    "location": "10.8909381-106.8283134",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26833,
+    "name": "Phường Long Thạnh Mỹ",
+    "location": "10.8421949-106.8237374",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26836,
+    "name": "Phường Tân Phú",
+    "location": "10.8569656-106.8030892",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26839,
+    "name": "Phường Hiệp Phú",
+    "location": "10.8486667-106.7809682",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26842,
+    "name": "Phường Tăng Nhơn Phú A",
+    "location": "10.8409534-106.79719",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26845,
+    "name": "Phường Tăng Nhơn Phú B",
+    "location": "10.8307175-106.7853922",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26848,
+    "name": "Phường Phước Long B",
+    "location": "10.8147076-106.7794935",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26851,
+    "name": "Phường Phước Long A",
+    "location": "10.8224164-106.763273",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26854,
+    "name": "Phường Trường Thạnh",
+    "location": "10.8117526-106.8325872",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26857,
+    "name": "Phường Long Phước",
+    "location": "10.8075496-106.8591387",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26860,
+    "name": "Phường Long Trường",
+    "location": "10.7986358-106.8237374",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26863,
+    "name": "Phường Phước Bình",
+    "location": "10.8137558-106.7721204",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26866,
+    "name": "Phường Phú Hữu",
+    "location": "10.7890603-106.8001396",
+    "type": "Phường",
+    "districtId": 763
+  },
+  {
+    "id": 26869,
+    "name": "Phường 15",
+    "location": "10.8514643-106.6678466",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26872,
+    "name": "Phường 13",
+    "location": "10.8551871-106.6584938",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26875,
+    "name": "Phường 17",
+    "location": "10.8409406-106.6748181",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26876,
+    "name": "Phường 6",
+    "location": "10.8384391-106.6816998",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26878,
+    "name": "Phường 16",
+    "location": "10.846657-106.6650311",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26881,
+    "name": "Phường 12",
+    "location": "10.8347203-106.6394461",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26882,
+    "name": "Phường 14",
+    "location": "10.8423134-106.6367",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26884,
+    "name": "Phường 10",
+    "location": "10.8329295-106.6718702",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26887,
+    "name": "Phường 05",
+    "location": "10.7968936-106.6867575",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26890,
+    "name": "Phường 07",
+    "location": "10.829553-106.683662",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26893,
+    "name": "Phường 04",
+    "location": "10.7687584-106.6839393",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26896,
+    "name": "Phường 01",
+    "location": "10.8173779-106.6888976",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26897,
+    "name": "Phường 9",
+    "location": "10.8475319-106.6541837",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26898,
+    "name": "Phường 8",
+    "location": "10.8422445-106.6512361",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26899,
+    "name": "Phường 11",
+    "location": "10.8390308-106.6600791",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26902,
+    "name": "Phường 03",
+    "location": "10.770528-106.6862868",
+    "type": "Phường",
+    "districtId": 764
+  },
+  {
+    "id": 26905,
+    "name": "Phường 13",
+    "location": "10.8256869-106.7042991",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26908,
+    "name": "Phường 11",
+    "location": "10.8180045-106.6954544",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26911,
+    "name": "Phường 27",
+    "location": "10.8166994-106.7190411",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26914,
+    "name": "Phường 26",
+    "location": "10.8131851-106.7087216",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26917,
+    "name": "Phường 12",
+    "location": "10.8122309-106.7013508",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26920,
+    "name": "Phường 25",
+    "location": "10.8040973-106.7153875",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26923,
+    "name": "Phường 05",
+    "location": "10.790508-106.707999",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26926,
+    "name": "Phường 07",
+    "location": "10.790526-106.708045",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26929,
+    "name": "Phường 24",
+    "location": "10.8058993-106.7050362",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26932,
+    "name": "Phường 06",
+    "location": "10.789414-106.708069",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26935,
+    "name": "Phường 14",
+    "location": "10.8049449-106.6976655",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26938,
+    "name": "Phường 15",
+    "location": "10.8004527-106.7050362",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26941,
+    "name": "Phường 02",
+    "location": "10.791161-106.707233",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26944,
+    "name": "Phường 01",
+    "location": "10.790409-106.707725",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26947,
+    "name": "Phường 03",
+    "location": "10.790481-106.70799",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26950,
+    "name": "Phường 17",
+    "location": "10.7962866-106.7065103",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26953,
+    "name": "Phường 21",
+    "location": "10.7957882-106.7117589",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26956,
+    "name": "Phường 22",
+    "location": "10.7921907-106.7190411",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26959,
+    "name": "Phường 19",
+    "location": "10.7899564-106.7101958",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26962,
+    "name": "Phường 28",
+    "location": "10.825006-106.7411559",
+    "type": "Phường",
+    "districtId": 765
+  },
+  {
+    "id": 26965,
+    "name": "Phường 02",
+    "location": "10.76246-106.668971",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26968,
+    "name": "Phường 04",
+    "location": "10.7687584-106.6839393",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26971,
+    "name": "Phường 12",
+    "location": "10.7931859-106.6500753",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26974,
+    "name": "Phường 13",
+    "location": "10.8058688-106.6438673",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26977,
+    "name": "Phường 01",
+    "location": "10.7947121-106.6675593",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26980,
+    "name": "Phường 03",
+    "location": "10.762466-106.669001",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26983,
+    "name": "Phường 11",
+    "location": "10.790694-106.6495246",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26986,
+    "name": "Phường 07",
+    "location": "10.7881559-106.6563945",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26989,
+    "name": "Phường 05",
+    "location": "10.762479-106.669061",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26992,
+    "name": "Phường 10",
+    "location": "10.7826359-106.645341",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26995,
+    "name": "Phường 06",
+    "location": "10.7837883-106.6582557",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 26998,
+    "name": "Phường 08",
+    "location": "10.7829523-106.651973",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 27001,
+    "name": "Phường 09",
+    "location": "10.7686228-106.683438",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 27004,
+    "name": "Phường 14",
+    "location": "10.7936922-106.6423935",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 27007,
+    "name": "Phường 15",
+    "location": "10.8225398-106.6379724",
+    "type": "Phường",
+    "districtId": 766
+  },
+  {
+    "id": 27010,
+    "name": "Phường Tân Sơn Nhì",
+    "location": "10.7997882-106.630604",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27013,
+    "name": "Phường Tây Thạnh",
+    "location": "10.8122907-106.6261831",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27016,
+    "name": "Phường Sơn Kỳ",
+    "location": "10.8033223-106.615868",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27019,
+    "name": "Phường Tân Quý",
+    "location": "10.794826-106.6217623",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27022,
+    "name": "Phường Tân Thành",
+    "location": "10.7914545-106.6335513",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27025,
+    "name": "Phường Phú Thọ Hòa",
+    "location": "10.7863307-106.6276567",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27028,
+    "name": "Phường Phú Thạnh",
+    "location": "10.7785654-106.6317792",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27031,
+    "name": "Phường Phú Trung",
+    "location": "10.7773512-106.6423935",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27034,
+    "name": "Phường Hòa Thạnh",
+    "location": "10.7783152-106.6372355",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27037,
+    "name": "Phường Hiệp Tân",
+    "location": "10.7727133-106.6276567",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27040,
+    "name": "Phường Tân Thới Hòa",
+    "location": "10.76294-106.6320777",
+    "type": "Phường",
+    "districtId": 767
+  },
+  {
+    "id": 27043,
+    "name": "Phường 04",
+    "location": "10.7959603-106.6885456",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27046,
+    "name": "Phường 05",
+    "location": "10.7968936-106.6867575",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27049,
+    "name": "Phường 09",
+    "location": "10.7969087-106.6868524",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27052,
+    "name": "Phường 07",
+    "location": "10.7968859-106.6868428",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27055,
+    "name": "Phường 03",
+    "location": "10.7967751-106.6866886",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27058,
+    "name": "Phường 01",
+    "location": "10.7986464-106.6802854",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27061,
+    "name": "Phường 02",
+    "location": "10.7959497-106.6885666",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27064,
+    "name": "Phường 08",
+    "location": "10.7980758-106.6740811",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27067,
+    "name": "Phường 15",
+    "location": "10.7950274-106.679977",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27070,
+    "name": "Phường 10",
+    "location": "10.7955148-106.6711332",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27073,
+    "name": "Phường 11",
+    "location": "10.7926289-106.6740811",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27076,
+    "name": "Phường 17",
+    "location": "10.7935032-106.682925",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27079,
+    "name": "Phường 14",
+    "location": "10.791592-106.6681854",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27082,
+    "name": "Phường 12",
+    "location": "10.7923853-106.678503",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27085,
+    "name": "Phường 13",
+    "location": "10.790068-106.6711332",
+    "type": "Phường",
+    "districtId": 768
+  },
+  {
+    "id": 27088,
+    "name": "Phường Thảo Điền",
+    "location": "10.8064331-106.7323097",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27091,
+    "name": "Phường An Phú",
+    "location": "10.8019128-106.7647475",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27094,
+    "name": "Phường Bình An",
+    "location": "10.7915388-106.7308354",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27097,
+    "name": "Phường Bình Trưng Đông",
+    "location": "10.78204-106.7794935",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27100,
+    "name": "Phường Bình Trưng Tây",
+    "location": "10.7844627-106.7603239",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27103,
+    "name": "Phường Bình Khánh",
+    "location": "10.7830453-106.7367328",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27106,
+    "name": "Phường An Khánh",
+    "location": "10.7814628-106.7160926",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27109,
+    "name": "Phường Cát Lái",
+    "location": "10.7708268-106.7853922",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27112,
+    "name": "Phường Thạnh Mỹ Lợi",
+    "location": "10.7583621-106.7647475",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27115,
+    "name": "Phường An Lợi Đông",
+    "location": "10.7631993-106.7264125",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27118,
+    "name": "Phường Thủ Thiêm",
+    "location": "10.7732956-106.7160926",
+    "type": "Phường",
+    "districtId": 769
+  },
+  {
+    "id": 27121,
+    "name": "Phường 08",
+    "location": "10.7712114-106.6857666",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27124,
+    "name": "Phường 07",
+    "location": "10.7707505-106.6817368",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27127,
+    "name": "Phường 14",
+    "location": "10.7895808-106.679977",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27130,
+    "name": "Phường 12",
+    "location": "10.788544-106.6740811",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27133,
+    "name": "Phường 11",
+    "location": "10.7860642-106.6696593",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27136,
+    "name": "Phường 13",
+    "location": "10.7855773-106.678503",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27139,
+    "name": "Phường 06",
+    "location": "10.7369775-106.6244505",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27142,
+    "name": "Phường 09",
+    "location": "10.7686228-106.683438",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27145,
+    "name": "Phường 10",
+    "location": "10.7812538-106.6766605",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27148,
+    "name": "Phường 04",
+    "location": "10.7687584-106.6839393",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27151,
+    "name": "Phường 05",
+    "location": "10.7694773-106.6832863",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27154,
+    "name": "Phường 03",
+    "location": "10.770528-106.6862868",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27157,
+    "name": "Phường 02",
+    "location": "10.771435-106.681099",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27160,
+    "name": "Phường 01",
+    "location": "10.7682626-106.6839418",
+    "type": "Phường",
+    "districtId": 770
+  },
+  {
+    "id": 27163,
+    "name": "Phường 15",
+    "location": "10.7815015-106.6659746",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27166,
+    "name": "Phường 13",
+    "location": "10.7792565-106.6696593",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27169,
+    "name": "Phường 14",
+    "location": "10.7709337-106.6600791",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27172,
+    "name": "Phường 12",
+    "location": "10.7730084-106.6718702",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27175,
+    "name": "Phường 11",
+    "location": "10.7736443-106.6788715",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27178,
+    "name": "Phường 10",
+    "location": "10.7713857-106.6676482",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27181,
+    "name": "Phường 09",
+    "location": "10.76271-106.669118",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27184,
+    "name": "Phường 01",
+    "location": "10.762454-106.668944",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27187,
+    "name": "Phường 08",
+    "location": "10.763171-106.669771",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27190,
+    "name": "Phường 02",
+    "location": "10.76246-106.668971",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27193,
+    "name": "Phường 04",
+    "location": "10.762472-106.669031",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27196,
+    "name": "Phường 07",
+    "location": "10.762491-106.669121",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27199,
+    "name": "Phường 05",
+    "location": "10.762479-106.669061",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27202,
+    "name": "Phường 06",
+    "location": "10.7373084-106.6245599",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27205,
+    "name": "Phường 03",
+    "location": "10.762466-106.669001",
+    "type": "Phường",
+    "districtId": 771
+  },
+  {
+    "id": 27208,
+    "name": "Phường 15",
+    "location": "10.7761932-106.6548706",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27211,
+    "name": "Phường 05",
+    "location": "10.762479-106.669061",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27214,
+    "name": "Phường 14",
+    "location": "10.7694985-106.6490254",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27217,
+    "name": "Phường 11",
+    "location": "10.7666947-106.6504992",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27220,
+    "name": "Phường 03",
+    "location": "10.7633465-106.6588697",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27223,
+    "name": "Phường 10",
+    "location": "10.7630148-106.6431304",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27226,
+    "name": "Phường 13",
+    "location": "10.7638102-106.6534468",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27229,
+    "name": "Phường 08",
+    "location": "10.7606898-106.6482886",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27232,
+    "name": "Phường 09",
+    "location": "10.7686228-106.683438",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27235,
+    "name": "Phường 12",
+    "location": "10.7611684-106.651973",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27238,
+    "name": "Phường 07",
+    "location": "10.7605453-106.6596036",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27241,
+    "name": "Phường 06",
+    "location": "10.7370991-106.6244483",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27244,
+    "name": "Phường 04",
+    "location": "10.7687584-106.6839393",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27247,
+    "name": "Phường 01",
+    "location": "10.7608932-106.650142",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27250,
+    "name": "Phường 02",
+    "location": "10.7550394-106.6431074",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27253,
+    "name": "Phường 16",
+    "location": "10.7552446-106.6482886",
+    "type": "Phường",
+    "districtId": 772
+  },
+  {
+    "id": 27256,
+    "name": "Phường 12",
+    "location": "10.7664188-106.7050362",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27259,
+    "name": "Phường 13",
+    "location": "10.762732-106.7101958",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27262,
+    "name": "Phường 09",
+    "location": "10.7686228-106.683438",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27265,
+    "name": "Phường 06",
+    "location": "10.7371963-106.624516",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27268,
+    "name": "Phường 08",
+    "location": "10.763091-106.7009979",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27271,
+    "name": "Phường 10",
+    "location": "10.760614-106.7054047",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27274,
+    "name": "Phường 05",
+    "location": "10.762479-106.669061",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27277,
+    "name": "Phường 18",
+    "location": "10.7596852-106.7160926",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27280,
+    "name": "Phường 14",
+    "location": "10.7580903-106.7079845",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27283,
+    "name": "Phường 04",
+    "location": "10.7687584-106.6839393",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27286,
+    "name": "Phường 03",
+    "location": "10.762466-106.669001",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27289,
+    "name": "Phường 16",
+    "location": "10.755125-106.7124071",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27292,
+    "name": "Phường 02",
+    "location": "10.76246-106.668971",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27295,
+    "name": "Phường 15",
+    "location": "10.7540075-106.7079845",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27298,
+    "name": "Phường 01",
+    "location": "10.7550849-106.689444",
+    "type": "Phường",
+    "districtId": 773
+  },
+  {
+    "id": 27301,
+    "name": "Phường 04",
+    "location": "10.7510929-106.6694669",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27304,
+    "name": "Phường 09",
+    "location": "10.7553344-106.6692256",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27307,
+    "name": "Phường 03",
+    "location": "10.7595352-106.6693064",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27310,
+    "name": "Phường 12",
+    "location": "10.7564453-106.6601602",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27313,
+    "name": "Phường 02",
+    "location": "10.7562001-106.6692136",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27316,
+    "name": "Phường 08",
+    "location": "10.7512425-106.6695266",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27319,
+    "name": "Phường 15",
+    "location": "10.7556424-106.6534468",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27322,
+    "name": "Phường 07",
+    "location": "10.7548791-106.6690891",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27325,
+    "name": "Phường 01",
+    "location": "10.7549031-106.6692026",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27328,
+    "name": "Phường 11",
+    "location": "10.7537961-106.6622899",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27331,
+    "name": "Phường 14",
+    "location": "10.7528392-106.6549206",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27334,
+    "name": "Phường 05",
+    "location": "10.7560917-106.6692095",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27337,
+    "name": "Phường 06",
+    "location": "10.7370125-106.6244381",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27340,
+    "name": "Phường 10",
+    "location": "10.7510738-106.6622899",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27343,
+    "name": "Phường 13",
+    "location": "10.750036-106.6563945",
+    "type": "Phường",
+    "districtId": 774
+  },
+  {
+    "id": 27346,
+    "name": "Phường 14",
+    "location": "10.7577874-106.6322597",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27349,
+    "name": "Phường 13",
+    "location": "10.7536523-106.6276567",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27352,
+    "name": "Phường 09",
+    "location": "10.7370693-106.6245142",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27355,
+    "name": "Phường 06",
+    "location": "10.7372485-106.62456",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27358,
+    "name": "Phường 12",
+    "location": "10.7506069-106.6335513",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27361,
+    "name": "Phường 05",
+    "location": "10.7370125-106.6244381",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27364,
+    "name": "Phường 11",
+    "location": "10.745162-106.6335513",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27367,
+    "name": "Phường 02",
+    "location": "10.7371428-106.6245605",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27370,
+    "name": "Phường 01",
+    "location": "10.783026-106.604884",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27373,
+    "name": "Phường 04",
+    "location": "10.7371963-106.624516",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27376,
+    "name": "Phường 08",
+    "location": "10.742838-106.6387092",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27379,
+    "name": "Phường 03",
+    "location": "10.7369775-106.6244505",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27382,
+    "name": "Phường 07",
+    "location": "10.8028126-106.6865481",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27385,
+    "name": "Phường 10",
+    "location": "10.7403696-106.6238525",
+    "type": "Phường",
+    "districtId": 775
+  },
+  {
+    "id": 27388,
+    "name": "Phường 08",
+    "location": "10.7167454-106.6289524",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27391,
+    "name": "Phường 02",
+    "location": "10.737862-106.6662989",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27394,
+    "name": "Phường 01",
+    "location": "10.749525-106.688451",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27397,
+    "name": "Phường 03",
+    "location": "10.762466-106.669001",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27400,
+    "name": "Phường 11",
+    "location": "10.7482708-106.6637637",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27403,
+    "name": "Phường 09",
+    "location": "10.7165703-106.6288809",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27406,
+    "name": "Phường 10",
+    "location": "10.7455487-106.6637637",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27409,
+    "name": "Phường 04",
+    "location": "10.737862-106.6662989",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27412,
+    "name": "Phường 13",
+    "location": "10.7459527-106.6563945",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27415,
+    "name": "Phường 12",
+    "location": "10.7432306-106.6563945",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27418,
+    "name": "Phường 05",
+    "location": "10.762479-106.669061",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27421,
+    "name": "Phường 14",
+    "location": "10.7396318-106.6475517",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27424,
+    "name": "Phường 06",
+    "location": "10.7372791-106.6245172",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27427,
+    "name": "Phường 15",
+    "location": "10.7257399-106.6332948",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27430,
+    "name": "Phường 16",
+    "location": "10.7251488-106.6261831",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27433,
+    "name": "Phường 07",
+    "location": "10.7046969-106.6210379",
+    "type": "Phường",
+    "districtId": 776
+  },
+  {
+    "id": 27436,
+    "name": "Phường Bình Hưng Hòa",
+    "location": "10.8026884-106.6026064",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27439,
+    "name": "Phường Bình Hưng Hoà A",
+    "location": "10.7850966-106.6069312",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27442,
+    "name": "Phường Bình Hưng Hoà B",
+    "location": "10.8033353-106.590819",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27445,
+    "name": "Phường Bình Trị Đông",
+    "location": "10.7639086-106.6143944",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27448,
+    "name": "Phường Bình Trị Đông A",
+    "location": "10.7703231-106.5967126",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27451,
+    "name": "Phường Bình Trị Đông B",
+    "location": "10.7478932-106.6085003",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27454,
+    "name": "Phường Tân Tạo",
+    "location": "10.7597516-106.590819",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27457,
+    "name": "Phường Tân Tạo A",
+    "location": "10.7360575-106.5906249",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27460,
+    "name": "Phường  An Lạc",
+    "location": "10.7231349-106.6111242",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27463,
+    "name": "Phường An Lạc A",
+    "location": "10.7539749-106.6217623",
+    "type": "Phường",
+    "districtId": 777
+  },
+  {
+    "id": 27466,
+    "name": "Phường Tân Thuận Đông",
+    "location": "10.7571056-106.7382072",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27469,
+    "name": "Phường Tân Thuận Tây",
+    "location": "10.7511954-106.7219896",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27472,
+    "name": "Phường Tân Kiểng",
+    "location": "10.7491228-106.7101958",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27475,
+    "name": "Phường Tân Hưng",
+    "location": "10.7430482-106.6969285",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27478,
+    "name": "Phường Bình Thuận",
+    "location": "10.7417516-106.7205154",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27481,
+    "name": "Phường Tân Quy",
+    "location": "10.7409584-106.7101958",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27484,
+    "name": "Phường Phú Thuận",
+    "location": "10.7299898-106.7426687",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27487,
+    "name": "Phường Tân Phú",
+    "location": "10.7251014-106.7264125",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27490,
+    "name": "Phường Tân Phong",
+    "location": "10.7318388-106.702825",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27493,
+    "name": "Phường Phú Mỹ",
+    "location": "10.7081313-106.7382072",
+    "type": "Phường",
+    "districtId": 778
+  },
+  {
+    "id": 27496,
+    "name": "Thị trấn Củ Chi",
+    "location": "10.972192-106.4965434",
+    "type": "Thị trấn",
+    "districtId": 783
+  },
+  {
+    "id": 27499,
+    "name": "Xã Phú Mỹ Hưng",
+    "location": "11.1246502-106.458256",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27502,
+    "name": "Xã An Phú",
+    "location": "11.1168711-106.4994889",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27505,
+    "name": "Xã Trung Lập Thượng",
+    "location": "11.0603258-106.4346979",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27508,
+    "name": "Xã An Nhơn Tây",
+    "location": "11.074436-106.4759262",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27511,
+    "name": "Xã Nhuận Đức",
+    "location": "11.0461163-106.493598",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27514,
+    "name": "Xã Phạm Văn Cội",
+    "location": "11.0338732-106.5171626",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27517,
+    "name": "Xã Phú Hòa Đông",
+    "location": "11.0203175-106.5642998",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27520,
+    "name": "Xã Trung Lập Hạ",
+    "location": "11.026217-106.458256",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27523,
+    "name": "Xã Trung An",
+    "location": "11.0048859-106.5893129",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27526,
+    "name": "Xã Phước Thạnh",
+    "location": "11.011451-106.4288088",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27529,
+    "name": "Xã Phước Hiệp",
+    "location": "10.9831531-106.4464766",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27532,
+    "name": "Xã Tân An Hội",
+    "location": "10.9593528-106.4818167",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27535,
+    "name": "Xã Phước Vĩnh An",
+    "location": "10.984377-106.5230542",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27538,
+    "name": "Xã Thái Mỹ",
+    "location": "10.990917-106.409935",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27541,
+    "name": "Xã Tân Thạnh Tây",
+    "location": "10.9875463-106.5642998",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27544,
+    "name": "Xã Hòa Phú",
+    "location": "10.9765654-106.6143944",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27547,
+    "name": "Xã Tân Thạnh Đông",
+    "location": "10.9586085-106.5937658",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27550,
+    "name": "Xã Bình Mỹ",
+    "location": "10.9399403-106.635025",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27553,
+    "name": "Xã Tân Phú Trung",
+    "location": "10.9389375-106.5411065",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27556,
+    "name": "Xã Tân Thông Hội",
+    "location": "10.9555622-106.5133215",
+    "type": "Xã",
+    "districtId": 783
+  },
+  {
+    "id": 27559,
+    "name": "Thị trấn Hóc Môn",
+    "location": "10.8863934-106.5922924",
+    "type": "Thị trấn",
+    "districtId": 784
+  },
+  {
+    "id": 27562,
+    "name": "Xã Tân Hiệp",
+    "location": "10.9084099-106.5912473",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27565,
+    "name": "Xã Nhị Bình",
+    "location": "10.9132585-106.6733441",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27568,
+    "name": "Xã Đông Thạnh",
+    "location": "10.9065528-106.6468148",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27571,
+    "name": "Xã Tân Thới Nhì",
+    "location": "10.8919577-106.5714148",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27574,
+    "name": "Xã Thới Tam Thôn",
+    "location": "10.8976059-106.6114474",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27577,
+    "name": "Xã Xuân Thới Sơn",
+    "location": "10.8790427-106.5525145",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27580,
+    "name": "Xã Tân Xuân",
+    "location": "10.8684249-106.5967126",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27583,
+    "name": "Xã Xuân Thới Đông",
+    "location": "10.8687479-106.5890718",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27586,
+    "name": "Xã Trung Chánh",
+    "location": "10.8692992-106.6148213",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27589,
+    "name": "Xã Xuân Thới Thượng",
+    "location": "10.8565784-106.5642998",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27592,
+    "name": "Xã Bà Điểm",
+    "location": "10.8411638-106.5967126",
+    "type": "Xã",
+    "districtId": 784
+  },
+  {
+    "id": 27595,
+    "name": "Thị trấn Tân Túc",
+    "location": "10.6844901-106.5731392",
+    "type": "Thị trấn",
+    "districtId": 785
+  },
+  {
+    "id": 27598,
+    "name": "Xã Phạm Văn Hai",
+    "location": "10.8148999-106.528946",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27601,
+    "name": "Xã Vĩnh Lộc A",
+    "location": "10.8238657-106.5642998",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27604,
+    "name": "Xã Vĩnh Lộc B",
+    "location": "10.7911649-106.5642998",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27607,
+    "name": "Xã Bình Lợi",
+    "location": "10.7756348-106.5096239",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27610,
+    "name": "Xã Lê Minh Xuân",
+    "location": "10.7661714-106.5230542",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27613,
+    "name": "Xã Tân Nhựt",
+    "location": "10.7155493-106.5525145",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27616,
+    "name": "Xã Tân Kiên",
+    "location": "10.716207-106.5848072",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27619,
+    "name": "Xã Bình Hưng",
+    "location": "10.7200104-106.6703963",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27622,
+    "name": "Xã Phong Phú",
+    "location": "10.6995307-106.6468148",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27625,
+    "name": "Xã An Phú Tây",
+    "location": "10.6880126-106.6085003",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27628,
+    "name": "Xã Hưng Long",
+    "location": "10.6681681-106.6232359",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27631,
+    "name": "Xã Đa Phước",
+    "location": "10.666245-106.6586052",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27634,
+    "name": "Xã Tân Quý Tây",
+    "location": "10.666887-106.5967126",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27637,
+    "name": "Xã Bình Chánh",
+    "location": "10.6630417-106.5672462",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27640,
+    "name": "Xã Quy Đức",
+    "location": "10.6425712-106.6438673",
+    "type": "Xã",
+    "districtId": 785
+  },
+  {
+    "id": 27643,
+    "name": "Thị trấn Nhà Bè",
+    "location": "10.6943704-106.7411559",
+    "type": "Thị trấn",
+    "districtId": 786
+  },
+  {
+    "id": 27646,
+    "name": "Xã Phước Kiển",
+    "location": "10.70719-106.7057733",
+    "type": "Xã",
+    "districtId": 786
+  },
+  {
+    "id": 27649,
+    "name": "Xã Phước Lộc",
+    "location": "10.7001584-106.685136",
+    "type": "Xã",
+    "districtId": 786
+  },
+  {
+    "id": 27652,
+    "name": "Xã Nhơn Đức",
+    "location": "10.6751953-106.6939803",
+    "type": "Xã",
+    "districtId": 786
+  },
+  {
+    "id": 27655,
+    "name": "Xã Phú Xuân",
+    "location": "10.6748507-106.7500025",
+    "type": "Xã",
+    "districtId": 786
+  },
+  {
+    "id": 27658,
+    "name": "Xã Long Thới",
+    "location": "10.6515117-106.7293611",
+    "type": "Xã",
+    "districtId": 786
+  },
+  {
+    "id": 27661,
+    "name": "Xã Hiệp Phước",
+    "location": "10.6009892-106.7588494",
+    "type": "Xã",
+    "districtId": 786
+  },
+  {
+    "id": 27664,
+    "name": "Thị trấn Cần Thạnh",
+    "location": "10.4155124-106.9731189",
+    "type": "Thị trấn",
+    "districtId": 787
+  },
+  {
+    "id": 27667,
+    "name": "Xã Bình Khánh",
+    "location": "10.6431737-106.7824429",
+    "type": "Xã",
+    "districtId": 787
+  },
+  {
+    "id": 27670,
+    "name": "Xã Tam Thôn Hiệp",
+    "location": "10.6037491-106.8595671",
+    "type": "Xã",
+    "districtId": 787
+  },
+  {
+    "id": 27673,
+    "name": "Xã An Thới Đông",
+    "location": "10.5549722-106.8060388",
+    "type": "Xã",
+    "districtId": 787
+  },
+  {
+    "id": 27676,
+    "name": "Xã Thạnh An",
+    "location": "10.5459417-106.9712791",
+    "type": "Xã",
+    "districtId": 787
+  },
+  {
+    "id": 27679,
+    "name": "Xã Long Hòa",
+    "location": "10.4630405-106.9004472",
+    "type": "Xã",
+    "districtId": 787
+  },
+  {
+    "id": 27682,
+    "name": "Xã Lý Nhơn",
+    "location": "10.468149-106.8060388",
+    "type": "Xã",
+    "districtId": 787
+  }
+]

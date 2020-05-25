@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindRoom</string>
+
+    <!-- Common -->
+    <string name="home">Trang chủ</string>
+    <string name="around">Quanh đây</string>
+    <string name="exchange">Giao dịch</string>
+    <string name="account">Tài khoản</string>
+    <string name="post">Đăng tin</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="below">Dưới</string>
+    <string name="above">Trên</string>
+
+    <!-- Notice -->
+    <string name="please_wait">Vui lòng đợi…</string>
+
+    <!-- Home -->
+    <string name="find_trending">Xu hướng tìm kiếm</string>
+    <string name="list_of_rooms">Danh sách phòng</string>
+    <string name="choose_your_perfect_room">Chọn phòng trọ tốt nhất…</string>
+
+    <!-- Popup Search -->
+    <string name="district">Quận/huyện</string>
+    <string name="ward">Phường/xã</string>
+    <string name="area">Diện tích</string>
+    <string name="price">Mức giá</string>
+
+    <!-- Setting -->
+    <string name="language">Ngôn ngữ</string>
+    <string name="term_and_services">Điều khoản và dịch vụ</string>
+    <string name="logout">Đăng xuất</string>
+
+    <string name="room_for_rent">Phòng trọ</string>
+    <string name="apartment">Căn hộ</string>
+    <string name="mini_apartment">Căn hộ mini</string>
+    <string name="convenient">Tiện ích</string>
+    <string name="image">Hình ảnh</string>
+</resources>

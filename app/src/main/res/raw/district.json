@@ -1,0 +1,436 @@
+[
+  {
+    "id": 1,
+    "name": "Quận Ba Đình",
+    "location": "21.0337815-105.8140539",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 2,
+    "name": "Quận Hoàn Kiếm",
+    "location": "21.027964-105.8510132",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 3,
+    "name": "Quận Tây Hồ",
+    "location": "21.0811211-105.8180306",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 4,
+    "name": "Quận Long Biên",
+    "location": "21.0548635-105.8884966",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 5,
+    "name": "Quận Cầu Giấy",
+    "location": "21.0362368-105.7905825",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 6,
+    "name": "Quận Đống Đa",
+    "location": "21.0180725-105.8299495",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 7,
+    "name": "Quận Hai Bà Trưng",
+    "location": "21.0090571-105.8607507",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 8,
+    "name": "Quận Hoàng Mai",
+    "location": "20.9836984-105.8636257",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 9,
+    "name": "Quận Thanh Xuân",
+    "location": "20.9959819-105.8097244",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 16,
+    "name": "Huyện Sóc Sơn",
+    "location": "21.2573126-105.8480203",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 17,
+    "name": "Huyện Đông Anh",
+    "location": "21.1245303-105.8271398",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 18,
+    "name": "Huyện Gia Lâm",
+    "location": "21.0105208-105.952941",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 19,
+    "name": "Quận Nam Từ Liêm",
+    "location": "21.0034608-105.7703287",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 20,
+    "name": "Huyện Thanh Trì",
+    "location": "20.9344418-105.8462288",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 21,
+    "name": "Quận Bắc Từ Liêm",
+    "location": "21.0730201-105.7703287",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 250,
+    "name": "Huyện Mê Linh",
+    "location": "21.1753431-105.7308045",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 268,
+    "name": "Quận Hà Đông",
+    "location": "20.955835-105.7563658",
+    "type": "Quận",
+    "provinceId": 1
+  },
+  {
+    "id": 269,
+    "name": "Thị xã Sơn Tây",
+    "location": "21.1032279-105.4969964",
+    "type": "Thị xã",
+    "provinceId": 1
+  },
+  {
+    "id": 271,
+    "name": "Huyện Ba Vì",
+    "location": "21.1992298-105.4232116",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 272,
+    "name": "Huyện Phúc Thọ",
+    "location": "21.1241396-105.5939066",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 273,
+    "name": "Huyện Đan Phượng",
+    "location": "21.084855-105.6690963",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 274,
+    "name": "Huyện Hoài Đức",
+    "location": "21.0243168-105.6988892",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 275,
+    "name": "Huyện Quốc Oai",
+    "location": "20.9924634-105.6404254",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 276,
+    "name": "Huyện Thạch Thất",
+    "location": "20.9905234-105.5251894",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 277,
+    "name": "Huyện Chương Mỹ",
+    "location": "20.8746466-105.6712465",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 278,
+    "name": "Huyện Thanh Oai",
+    "location": "20.8532165-105.7688513",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 279,
+    "name": "Huyện Thường Tín",
+    "location": "20.8055441-105.8838579",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 280,
+    "name": "Huyện Phú Xuyên",
+    "location": "20.7280728-105.9029374",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 281,
+    "name": "Huyện Ứng Hòa",
+    "location": "20.729614-105.7782061",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 282,
+    "name": "Huyện Mỹ Đức",
+    "location": "20.725768-105.7157513",
+    "type": "Huyện",
+    "provinceId": 1
+  },
+  {
+    "id": 490,
+    "name": "Quận Liên Chiểu",
+    "location": "16.0717704-108.1503823",
+    "type": "Quận",
+    "provinceId": 48
+  },
+  {
+    "id": 491,
+    "name": "Quận Thanh Khê",
+    "location": "16.0641802-108.1873407",
+    "type": "Quận",
+    "provinceId": 48
+  },
+  {
+    "id": 492,
+    "name": "Quận Hải Châu",
+    "location": "16.0472002-108.2199588",
+    "type": "Quận",
+    "provinceId": 48
+  },
+  {
+    "id": 493,
+    "name": "Quận Sơn Trà",
+    "location": "16.1069981-108.2521815",
+    "type": "Quận",
+    "provinceId": 48
+  },
+  {
+    "id": 494,
+    "name": "Quận Ngũ Hành Sơn",
+    "location": "15.9955056-108.2588049",
+    "type": "Quận",
+    "provinceId": 48
+  },
+  {
+    "id": 495,
+    "name": "Quận Cẩm Lệ",
+    "location": "16.0153669-108.1962362",
+    "type": "Quận",
+    "provinceId": 48
+  },
+  {
+    "id": 497,
+    "name": "Huyện Hòa Vang",
+    "location": "15.999988-108.1457994",
+    "type": "Huyện",
+    "provinceId": 48
+  },
+  {
+    "id": 498,
+    "name": "Huyện Hoàng Sa",
+    "location": "16.064571-108.222148",
+    "type": "Huyện",
+    "provinceId": 48
+  },
+  {
+    "id": 760,
+    "name": "Quận 1",
+    "location": "10.7756587-106.7004238",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 761,
+    "name": "Quận 12",
+    "location": "10.8671531-106.6413322",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 762,
+    "name": "Quận Thủ Đức",
+    "location": "10.8494094-106.7537055",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 763,
+    "name": "Quận 9",
+    "location": "10.8428402-106.8286851",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 764,
+    "name": "Quận Gò Vấp",
+    "location": "10.8386779-106.6652904",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 765,
+    "name": "Quận Bình Thạnh",
+    "location": "10.8105831-106.7091422",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 766,
+    "name": "Quận Tân Bình",
+    "location": "10.8014659-106.6525974",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 767,
+    "name": "Quận Tân Phú",
+    "location": "10.7900517-106.6281901",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 768,
+    "name": "Quận Phú Nhuận",
+    "location": "10.7991944-106.6802639",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 769,
+    "name": "Quận 2",
+    "location": "10.7872729-106.7498105",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 770,
+    "name": "Quận 3",
+    "location": "10.7843695-106.6844089",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 771,
+    "name": "Quận 10",
+    "location": "10.7745965-106.6679542",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 772,
+    "name": "Quận 11",
+    "location": "10.7629739-106.650084",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 773,
+    "name": "Quận 4",
+    "location": "10.7578263-106.7012968",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 774,
+    "name": "Quận 5",
+    "location": "10.7540279-106.6633746",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 775,
+    "name": "Quận 6",
+    "location": "10.7480929-106.6352362",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 776,
+    "name": "Quận 8",
+    "location": "10.7240878-106.6286259",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 777,
+    "name": "Quận Bình Tân",
+    "location": "10.7652581-106.6038535",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 778,
+    "name": "Quận 7",
+    "location": "10.7340344-106.7215787",
+    "type": "Quận",
+    "provinceId": 79
+  },
+  {
+    "id": 783,
+    "name": "Huyện Củ Chi",
+    "location": "11.0066683-106.5131967",
+    "type": "Huyện",
+    "provinceId": 79
+  },
+  {
+    "id": 784,
+    "name": "Huyện Hóc Môn",
+    "location": "10.8839675-106.5870611",
+    "type": "Huyện",
+    "provinceId": 79
+  },
+  {
+    "id": 785,
+    "name": "Huyện Bình Chánh",
+    "location": "10.687392-106.5938538",
+    "type": "Huyện",
+    "provinceId": 79
+  },
+  {
+    "id": 786,
+    "name": "Huyện Nhà Bè",
+    "location": "10.6952642-106.704874",
+    "type": "Huyện",
+    "provinceId": 79
+  },
+  {
+    "id": 787,
+    "name": "Huyện Cần Giờ",
+    "location": "10.5083266-106.8635004",
+    "type": "Huyện",
+    "provinceId": 79
+  }
+]

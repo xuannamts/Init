@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_dialog"
+    android:orientation="vertical">
+
+    <com.hconve.findroom.widgets.textwithicon.TextWithIcon
+        android:id="@+id/districtButton"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_70"
+        android:layout_margin="@dimen/dp_3"
+        app:twi_icon="@drawable/ic_location_on"
+        app:twi_text="@string/district" />
+
+    <com.hconve.findroom.widgets.textwithicon.TextWithIcon
+        android:id="@+id/wardButton"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_70"
+        android:layout_margin="@dimen/dp_3"
+        app:twi_icon="@drawable/ic_location_on"
+        app:twi_text="@string/ward" />
+
+    <com.hconve.findroom.widgets.textwithicon.TextWithIcon
+        android:id="@+id/areaButton"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_70"
+        android:layout_margin="@dimen/dp_3"
+        app:twi_icon="@drawable/ic_cube"
+        app:twi_text="@string/area" />
+
+    <com.hconve.findroom.widgets.textwithicon.TextWithIcon
+        android:id="@+id/priceButton"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_70"
+        android:layout_margin="@dimen/dp_3"
+        app:twi_icon="@drawable/ic_attach_money"
+        app:twi_text="@string/price" />
+
+    <com.hconve.findroom.widgets.loadingbutton.LoadingButton
+        android:id="@+id/searchLoadingButton"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:layout_margin="@dimen/dp_30"
+        app:lb_text="@string/search"
+        app:lb_cornerRadius="@dimen/dp_50" />
+
+</LinearLayout>
